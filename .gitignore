@@ -1,0 +1,12 @@
+/node_modules
+.next
+# Ide
+/.idea
+.DS_Store
+
+# Enviroments variables
+.env*
+
+# Compiled output
+/dis
+/out
