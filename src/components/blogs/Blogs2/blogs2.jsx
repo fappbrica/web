@@ -9,15 +9,14 @@ const Blogs2 = () => {
         <div className="row">
           <div className="col-lg-4">
             <div className="head md-mb50">
-              <h6 className="back-color">Get The Latest News</h6>
-              <h3>What Our Trending News.</h3>
+              <h6 className="back-color">Obtenga las últimas noticias</h6>
+              <h3>Estás son nuestras noticias de tendencia.</h3>
               <p>
-                We provide company and finance service for startups and company
-                business.
+              Brindamos servicios y finanzas para empresas emergentes.
               </p>
               <Link href="/blog/blog-dark">
                 <a>
-                  <span>More Blog Posts</span>
+                  <span>MÁS PUBLICACIONES DE BLOG</span>
                 </a>
               </Link>
             </div>
@@ -33,7 +32,7 @@ const Blogs2 = () => {
                     <Link href="/blog/blog-dark">
                       <a className="date">
                         <span>
-                          <i>06</i> August
+                          <i>06</i> Agosto
                         </span>
                       </a>
                     </Link>
@@ -47,7 +46,7 @@ const Blogs2 = () => {
                   <h5>
                     <Link href="/blog-details/blog-details-dark">
                       <a>
-                        How to use solid color combine with simple furnitures.
+                       Como combinar colores sólidos con muebles sencillos
                       </a>
                     </Link>
                   </h5>
@@ -64,7 +63,7 @@ const Blogs2 = () => {
                     <Link href="/blog/blog-dark">
                       <a className="date">
                         <span>
-                          <i>06</i> August
+                          <i>06</i> Agosto
                         </span>
                       </a>
                     </Link>
@@ -78,7 +77,7 @@ const Blogs2 = () => {
                   <h5>
                     <Link href="/blog-details/blog-details-dark">
                       <a>
-                        How to use solid color combine with simple furnitures.
+                      Como combinar colores sólidos con muebles sencillos
                       </a>
                     </Link>
                   </h5>
@@ -95,7 +94,7 @@ const Blogs2 = () => {
                     <Link href="/blog/blog-dark">
                       <a className="date">
                         <span>
-                          <i>06</i> August
+                          <i>06</i> Agosto
                         </span>
                       </a>
                     </Link>
@@ -109,7 +108,7 @@ const Blogs2 = () => {
                   <h5>
                     <Link href="/blog-details/blog-details-dark">
                       <a>
-                        How to use solid color combine with simple furnitures.
+                      Como combinar colores sólidos con muebles sencillos
                       </a>
                     </Link>
                   </h5>

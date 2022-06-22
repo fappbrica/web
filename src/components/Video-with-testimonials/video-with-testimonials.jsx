@@ -30,7 +30,7 @@ const VideoWithTestimonials = () => {
           <div className="row">
             <div className="col-lg-6">
               <div className="vid-area">
-                <span className="text">Watch Video</span>
+                <span className="text">Ver video</span>
                 <div className="vid-icon">
                   {typeof window !== "undefined" && (
                     <ModalVideo
@@ -60,10 +60,10 @@ const VideoWithTestimonials = () => {
               <div className="testim-box">
                 <div className="head-box">
                   <h6 className="wow fadeIn" data-wow-delay=".5s">
-                    Our Clients
+                    Nuestro clientes
                   </h6>
                   <h4 className="wow fadeInLeft" data-wow-delay=".5s">
-                    What Client&apos;s Say?
+                    Qué dicen nuestros clientes?
                   </h4>
                 </div>
                 <Slider
@@ -73,9 +73,7 @@ const VideoWithTestimonials = () => {
                 >
                   <div className="item">
                     <p>
-                      Nulla metus metus ullamcorper vel tincidunt sed euismod
-                      nibh volutpat velit class aptent taciti sociosqu ad
-                      litora.
+                    ¡Estamos muy conformes con el servicio brindando!
                     </p>
                     <div className="info">
                       <div className="img">
@@ -95,9 +93,7 @@ const VideoWithTestimonials = () => {
                   </div>
                   <div className="item">
                     <p>
-                      Nulla metus metus ullamcorper vel tincidunt sed euismod
-                      nibh volutpat velit class aptent taciti sociosqu ad
-                      litora.
+                    ¡Estamos muy conformes con el servicio brindando!
                     </p>
                     <div className="info">
                       <div className="img">
@@ -117,9 +113,7 @@ const VideoWithTestimonials = () => {
                   </div>
                   <div className="item">
                     <p>
-                      Nulla metus metus ullamcorper vel tincidunt sed euismod
-                      nibh volutpat velit class aptent taciti sociosqu ad
-                      litora.
+                    ¡Estamos muy conformes con el servicio brindando!
                     </p>
                     <div className="info">
                       <div className="img">

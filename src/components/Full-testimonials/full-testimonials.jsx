@@ -119,8 +119,8 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p>
-                    I would highly recommend Vie Digital. I worked with the team
-                    on an animation for our ‘Click &amp; Collect’ service.
+                  Recomiendo encarecidamente Vie Digital. trabajé con el equipo
+                  en una animación para nuestro ‘Click &amp; Collect’ servicio.
                   </p>
                 </div>
                 <div className="item">
@@ -140,8 +140,8 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p>
-                    I would highly recommend Vie Digital. I worked with the team
-                    on an animation for our ‘Click &amp; Collect’ service.
+                    Recomiendo encarecidamente Vie Digital. trabajé con el equipo
+                    en una animación para nuestro ‘Click &amp; Collect’ servicio.
                   </p>
                 </div>
                 <div className="item">
@@ -161,8 +161,8 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p>
-                    I would highly recommend Vie Digital. I worked with the team
-                    on an animation for our ‘Click &amp; Collect’ service.
+                    Recomiendo encarecidamente Vie Digital. trabajé con el equipo
+                    en una animación para nuestro ‘Click &amp; Collect’ servicio.
                   </p>
                 </div>
                 <div className="item">
@@ -182,8 +182,8 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p>
-                    I would highly recommend Vie Digital. I worked with the team
-                    on an animation for our ‘Click &amp; Collect’ service.
+                    Recomiendo encarecidamente Vie Digital. trabajé con el equipo
+                    en una animación para nuestro ‘Click &amp; Collect’ servicio.
                   </p>
                 </div>
               </Slider>

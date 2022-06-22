@@ -38,8 +38,8 @@ const SkillsCircle = ({ from, theme }) => {
                       />
                     </div>
                     <div className="cont">
-                      <span>Project</span>
-                      <h6>Consulting</h6>
+                      <span>Proyectos</span>
+                      <h6>Consultas</h6>
                     </div>
                   </div>
                 </div>
@@ -55,7 +55,7 @@ const SkillsCircle = ({ from, theme }) => {
                     </div>
                     <div className="cont">
                       <span>App</span>
-                      <h6>Development</h6>
+                      <h6>Desarrollo</h6>
                     </div>
                   </div>
                 </div>
