@@ -46,7 +46,7 @@ const BlogStanderd = ({ blogs }) => {
                         </h4>
                         <p>{blogItem.content}</p>
                         <Link href={`/blog-details/blog-details-dark`}>
-                          <a className="butn bord curve mt-30">Read More</a>
+                          <a className="butn bord curve mt-30">Leer más</a>
                         </Link>
                       </div>
                     </div>

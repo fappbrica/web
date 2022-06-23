@@ -47,7 +47,7 @@ const Blogs2 = () => {
                         </a>
                       </div>
                       <a href="#0" className="butn-bord-red rounded buton">
-                        <span>Read More</span>
+                        <span>Leer más</span>
                       </a>
                     </div>
                   </div>
@@ -86,7 +86,7 @@ const Blogs2 = () => {
                         </a>
                       </div>
                       <a href="#0" className="butn-bord-red rounded buton">
-                        <span>Read More</span>
+                        <span>Leer más</span>
                       </a>
                     </div>
                   </div>

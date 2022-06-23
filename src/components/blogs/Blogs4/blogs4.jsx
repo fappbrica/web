@@ -203,7 +203,7 @@ const Blogs4 = () => {
                         </div>
                         <div className="more">
                           <Link href={`/blog-details/blog-details-dark`}>
-                            Read More
+                          Leer más
                           </Link>
                         </div>
                       </div>
@@ -240,7 +240,7 @@ const Blogs4 = () => {
                         </div>
                         <div className="more">
                           <Link href={`/blog-details/blog-details-dark`}>
-                            Read More
+                          Leer más
                           </Link>
                         </div>
                       </div>
@@ -277,7 +277,7 @@ const Blogs4 = () => {
                         </div>
                         <div className="more">
                           <Link href={`/blog-details/blog-details-dark`}>
-                            Read More
+                          Leer más
                           </Link>
                         </div>
                       </div>

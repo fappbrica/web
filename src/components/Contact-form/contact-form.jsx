@@ -20,7 +20,7 @@ const ContactForm = () => {
         <div className="row">
           <div className="col-lg-6">
             <div className="form md-mb50">
-              <h4 className="fw-700 color-font mb-50">Get In Touch.</h4>
+              <h4 className="fw-700 color-font mb-50">Ponerse en contacto.</h4>
               <Formik
                 initialValues={{
                   name: "",
@@ -53,7 +53,7 @@ const ContactForm = () => {
                           id="form_name"
                           type="text"
                           name="name"
-                          placeholder="Name"
+                          placeholder="Nombre"
                           required="required"
                         />
                       </div>
@@ -63,7 +63,7 @@ const ContactForm = () => {
                           id="form_email"
                           type="email"
                           name="email"
-                          placeholder="Email"
+                          placeholder="Correo electrónico"
                         />
                         {errors.email && touched.email && (
                           <div>{errors.email}</div>
@@ -75,14 +75,14 @@ const ContactForm = () => {
                         as="textarea"
                         id="form_message"
                         name="message"
-                        placeholder="Message"
+                        placeholder="Mensaje"
                         rows="4"
                         required="required"
                       />
                     </div>
 
                     <button type="submit" className="butn bord">
-                      <span>Send Message</span>
+                      <span>Enviar mensaje</span>
                     </button>
                   </Form>
                 )}
@@ -91,7 +91,7 @@ const ContactForm = () => {
           </div>
           <div className="col-lg-5 offset-lg-1">
             <div className="cont-info">
-              <h4 className="fw-700 color-font mb-50">Contact Info.</h4>
+              <h4 className="fw-700 color-font mb-50">Datos de contacto.</h4>
               <h3 className="wow" data-splitting>
                 {ContactFromDate.title}
               </h3>
@@ -102,7 +102,7 @@ const ContactForm = () => {
                 <h5>{ContactFromDate.phone}</h5>
               </div>
               <h3 className="wow" data-splitting>
-                Visit Us.
+                Visítanos.
               </h3>
               <div className="item">
                 <h6>

@@ -1,62 +1,62 @@
 [
     {
         "id": 1,
-        "title": "How to use solid color combine with simple furnitures.",
+        "title": "Cómo combinar colores sólidos con mueble.",
         "image": "/img/blog/b1.jpg",
         "tags": ["WordPress", "Themeforest", "Vie"],
         "date": {
             "day": "07",
-            "month": "August"
+            "month": "Agosto"
         }
     },
     {
         "id": 2,
-        "title": "How to use solid color combine with simple furnitures.",
+        "title": "Cómo combinar colores sólidos con mueble.",
         "image": "/img/blog/b2.jpg",
         "tags": ["WordPress"],
         "date": {
             "day": "07",
-            "month": "August"
+            "month": "Agosto"
         }
     },
     {
         "id": 3,
-        "title": "How to use solid color combine with simple furnitures.",
+        "title": "Cómo combinar colores sólidos con mueble.",
         "image": "/img/blog/b3.jpg",
         "tags": ["WordPress", "Themeforest", "Vie"],
         "date": {
             "day": "07",
-            "month": "August"
+            "month": "Agosto"
         }
     },
     {
         "id": 4,
-        "title": "How to use solid color combine with simple furnitures.",
+        "title": "Cómo combinar colores sólidos con mueble.",
         "image": "/img/blog/b4.jpg",
         "tags": ["WordPress", "Themeforest", "Vie"],
         "date": {
             "day": "07",
-            "month": "August"
+            "month": "Agosto"
         }
     },
     {
         "id": 5,
-        "title": "How to use solid color combine with simple furnitures.",
+        "title": "Cómo combinar colores sólidos con mueble.",
         "image": "/img/blog/b2.jpg",
         "tags": ["WordPress"],
         "date": {
             "day": "07",
-            "month": "August"
+            "month": "Agosto"
         }
     },
     {
         "id": 6,
-        "title": "How to use solid color combine with simple furnitures.",
+        "title": "Cómo combinar colores sólidos con mueble.",
         "image": "/img/blog/b3.jpg",
         "tags": ["WordPress", "Themeforest", "Vie"],
         "date": {
             "day": "07",
-            "month": "August"
+            "month": "Agosto"
         }
     } 
 ]

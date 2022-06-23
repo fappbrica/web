@@ -36,8 +36,8 @@ const BlogDetailsDark = () => {
       </div>
       <Navbar nr={navbarRef} lr={logoRef} />
       <PageHeader
-        title="Blog Details."
-        paragraph="All the most current news and events of our creative team."
+        title="Detalles del blog."
+        paragraph="Todas las noticias y eventos más actuales de nuestro equipo creativo."
       />
           <BlogDetails blog={"blog"} />
           <Footer />

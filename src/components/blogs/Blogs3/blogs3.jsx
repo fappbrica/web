@@ -9,9 +9,9 @@ const Blogs3 = () => {
           <div className="col-lg-8 col-md-10">
             <div className="sec-head text-center">
               <h6 className="wow fadeIn" data-wow-delay=".5s">
-                RECENT ARTICLES
+                ARTÍCULOS RECIENTES
               </h6>
-              <h3 className="wow color-font">From our blogs.</h3>
+              <h3 className="wow color-font">Nuestro blog</h3>
             </div>
           </div>
         </div>
@@ -25,7 +25,7 @@ const Blogs3 = () => {
                 <Link href="/blog/blog-dark">
                   <a className="date">
                     <span>
-                      <i>06</i> Aug 2022
+                      <i>06</i> Ago 2022
                     </span>
                   </a>
                 </Link>
@@ -42,14 +42,14 @@ const Blogs3 = () => {
                 <h6>
                   <Link href="/blog-details/blog-details-dark">
                     <a>
-                      The Start-Up Ultimate Guide to Make Your WordPress
-                      Journal.
+                      La guía definitiva de puesta en marcha para hacer su WordPress
+                      diario.
                     </a>
                   </Link>
                 </h6>
                 <div className="btn-more">
                   <Link href="/blog-details/blog-details-dark">
-                    <a className="simple-btn">Read More</a>
+                    <a className="simple-btn">Leer más</a>
                   </Link>
                 </div>
               </div>
@@ -64,7 +64,7 @@ const Blogs3 = () => {
                 <Link href="/blog/blog-dark">
                   <a className="date">
                     <span>
-                      <i>06</i> Aug 2022
+                      <i>06</i> Ago 2022
                     </span>
                   </a>
                 </Link>
@@ -81,14 +81,14 @@ const Blogs3 = () => {
                 <h6>
                   <Link href="/blog-details/blog-details-dark">
                     <a>
-                      The Start-Up Ultimate Guide to Make Your WordPress
-                      Journal.
+                      La guía definitiva de puesta en marcha para hacer su WordPress
+                      diario.
                     </a>
                   </Link>
                 </h6>
                 <div className="btn-more">
                   <Link href="/blog-details/blog-details-dark">
-                    <a className="simple-btn">Read More</a>
+                    <a className="simple-btn">Leer más</a>
                   </Link>
                 </div>
               </div>
@@ -103,7 +103,7 @@ const Blogs3 = () => {
                 <Link href="/blog/blog-dark">
                   <a className="date">
                     <span>
-                      <i>06</i> Aug 2022
+                      <i>06</i> Ago 2022
                     </span>
                   </a>
                 </Link>
@@ -120,14 +120,14 @@ const Blogs3 = () => {
                 <h6>
                   <Link href="/blog-details/blog-details-dark">
                     <a>
-                      The Start-Up Ultimate Guide to Make Your WordPress
-                      Journal.
+                    La guía definitiva de puesta en marcha para hacer su WordPress
+                    diario.
                     </a>
                   </Link>
                 </h6>
                 <div className="btn-more">
                   <Link href="/blog-details/blog-details-dark">
-                    <a className="simple-btn">Read More</a>
+                    <a className="simple-btn">Leer más</a>
                   </Link>
                 </div>
               </div>

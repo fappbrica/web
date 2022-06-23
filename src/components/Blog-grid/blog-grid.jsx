@@ -42,7 +42,7 @@ const BlogGrid = ({ blogs }) => {
                       </h5>
                       <div className="btn-more">
                         <Link href="/blog-details/blog-details-dark">
-                          <a className="simple-btn">Read More</a>
+                          <a className="simple-btn">Leer más</a>
                         </Link>
                       </div>
                     </div>

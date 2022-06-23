@@ -53,7 +53,7 @@ const BlogList = ({ blogs }) => {
                           </p>
                           <div className="btn-more mt-30">
                             <Link href="/blog-details/blog-details-dark">
-                              <a className="simple-btn">Read More</a>
+                              <a className="simple-btn">Leer más</a>
                             </Link>
                           </div>
                         </div>
