@@ -1,8 +1,8 @@
 {
   "id": 1,
-  "smallTitle": "About Us",
-  "title": "Our Comapny",
-  "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
+  "smallTitle": "Sobre nosotros",
+  "title": "Nuestra empresa",
+  "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quidem iusto dolorum reprehenderit accusamus vel explicabo quas commodi veniam.",
   "image": "/img/feat.jpg",
   "stauts": [
     { "id": 1, "number": "3", "letter": "K", "stautsName": "Clientes felices" },

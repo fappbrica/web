@@ -35,7 +35,7 @@ const MobileAppPricingPlanDark = () => {
       <DarkTheme mobileappstyle>
         <NavbarMobileApp nr={navbarRef} />
         <PageHeader2
-          title="Latest Works"
+          title="Últimos trabajos"
           links={[
             { id: 1, name: "Home", url: "/" },
             {

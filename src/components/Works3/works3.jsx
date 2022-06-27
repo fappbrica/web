@@ -29,7 +29,7 @@ const Works3 = () => {
                   Portfolio
                 </h6>
                 <h3 className="wow color-font">
-                  Our Recent Web Design &amp; <br /> Some Past Projects.
+                  Nuestro diseño web reciente y<br /> algunos Proyectos pasados.
                 </h3>
               </div>
             </div>
@@ -102,14 +102,14 @@ const Works3 = () => {
                           <Link
                             href={`/works3/works3-dark`}
                           >
-                            art &amp; illustration
+                            Arte e ilustración
                           </Link>
                         </h6>
                         <h4>
                           <Link
                             href={`/project-details2/project-details2-dark`}
                           >
-                            Inspiring new space
+                            Nuevo espacio inspirador
                           </Link>
                         </h4>
                       </div>
@@ -127,15 +127,15 @@ const Works3 = () => {
                         <h6>
                           <Link
                             href={`/works3/works3-dark`}
-                          >
-                            art &amp; illustration
+                          >                           
+                            Arte y amplificador; ilustración
                           </Link>
                         </h6>
                         <h4>
                           <Link
                             href={`/project-details2/project-details2-dark`}
                           >
-                            Inspiring new space
+                            Nuevo espacio inspirador
                           </Link>
                         </h4>
                       </div>
@@ -154,7 +154,7 @@ const Works3 = () => {
                           <Link
                             href={`/works3/works3-dark`}
                           >
-                            art &amp; illustration
+                            arte e ilustración
                           </Link>
                         </h6>
                         <h4>
@@ -180,14 +180,14 @@ const Works3 = () => {
                           <Link
                             href={`/works3/works3-dark`}
                           >
-                            art &amp; illustration
+                            arte e ilustración
                           </Link>
                         </h6>
                         <h4>
                           <Link
                             href={`/project-details2/project-details2-dark`}
                           >
-                            Inspiring new space
+                            Nuevo espacio inspirador
                           </Link>
                         </h4>
                       </div>
@@ -206,14 +206,14 @@ const Works3 = () => {
                           <Link
                             href={`/works3/works3-dark`}
                           >
-                            art &amp; illustration
+                            arte e ilustración
                           </Link>
                         </h6>
                         <h4>
                           <Link
                             href={`/project-details2/project-details2-dark`}
                           >
-                            Inspiring new space
+                            Nuevo espacio inspirador
                           </Link>
                         </h4>
                       </div>
@@ -232,14 +232,14 @@ const Works3 = () => {
                           <Link
                             href={`/works3/works3-dark`}
                           >
-                            art &amp; illustration
+                            arte e ilustración
                           </Link>
                         </h6>
                         <h4>
                           <Link
                             href={`/project-details2/project-details2-dark`}
                           >
-                            Inspiring new space
+                            Nuevo espacio inspirador
                           </Link>
                         </h4>
                       </div>

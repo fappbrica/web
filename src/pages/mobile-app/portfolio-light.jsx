@@ -41,7 +41,7 @@ const MobileAppPricingPlanLight = () => {
       <LightTheme mobileappstyle>
         <NavbarMobileApp nr={navbarRef} lr={logoRef} />
         <PageHeader2
-          title="Latest Works"
+          title="Últimos trabajos"
           links={[
             { id: 1, name: "Home", url: "/" },
             {

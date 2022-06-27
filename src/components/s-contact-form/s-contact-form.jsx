@@ -20,10 +20,10 @@ const SContactForm = ({ noLine }) => {
           <div className="col-lg-8 col-md-10">
             <div className="sec-head  text-center">
               <h6 className="wow fadeIn" data-wow-delay=".5s">
-                Contact Us
+              Contacto
               </h6>
               <h3 className="wow color-font">
-                Let’s Get in Touch And Make Magic Together.
+                Pongámonos en contacto y hagamos magia juntos.
               </h3>
             </div>
           </div>
@@ -43,7 +43,7 @@ const SContactForm = ({ noLine }) => {
                   // show message
 
                   messageRef.current.innerText =
-                    "Your Message has been successfully sent. I will contact you soon.";
+                    "Su mensaje ha sido enviado con éxito. Me pondré en contacto con usted en breve.";
                   // Reset the values
                   values.name = "";
                   values.email = "";
@@ -65,7 +65,7 @@ const SContactForm = ({ noLine }) => {
                               id="form_name"
                               type="text"
                               name="name"
-                              placeholder="Name"
+                              placeholder="Nombre"
                               required="required"
                             />
                           </div>
@@ -92,7 +92,7 @@ const SContactForm = ({ noLine }) => {
                               as="textarea"
                               id="form_message"
                               name="message"
-                              placeholder="Message"
+                              placeholder="Mensaje"
                               rows="4"
                               required="required"
                             />
@@ -104,7 +104,7 @@ const SContactForm = ({ noLine }) => {
                               type="submit"
                               className="nb butn bord curve mt-30"
                             >
-                              <span>Send Massege</span>
+                              <span>Enviar mensaje</span>
                             </button>
                           </div>
                         </div>

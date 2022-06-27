@@ -111,7 +111,7 @@ const ShowcasesFullScreen = () => {
                             >
                               <a>
                                 <span>
-                                  Explore <br /> More
+                                  Más <br /> información 
                                 </span>
                               </a>
                             </Link>
@@ -133,7 +133,7 @@ const ShowcasesFullScreen = () => {
           className="swiper-button-next swiper-nav-ctrl next-ctrl cursor-pointer"
         >
           <div>
-            <span>Next Slide</span>
+            <span>Siguiente</span>
           </div>
           <div>
             <i className="fas fa-chevron-right"></i>
@@ -147,7 +147,7 @@ const ShowcasesFullScreen = () => {
             <i className="fas fa-chevron-left"></i>
           </div>
           <div>
-            <span>Prev Slide</span>
+            <span>Anterior</span>
           </div>
         </div>
 

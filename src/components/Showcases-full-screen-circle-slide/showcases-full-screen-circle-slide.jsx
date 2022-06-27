@@ -126,7 +126,7 @@ const ShowcasesFullScreenCircleSlide = () => {
           className="swiper-button-next swiper-nav-ctrl next-ctrl cursor-pointer"
         >
           <div>
-            <span>Next Slide</span>
+            <span>Siguiente</span>
           </div>
           <div>
             <i className="fas fa-chevron-right"></i>
@@ -140,7 +140,7 @@ const ShowcasesFullScreenCircleSlide = () => {
             <i className="fas fa-chevron-left"></i>
           </div>
           <div>
-            <span>Prev Slide</span>
+            <span>Anterior</span>
           </div>
         </div>
       </div>

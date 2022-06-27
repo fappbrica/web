@@ -1,25 +1,25 @@
 [
     {
         "id": 1,
-        "title": {"first": "Midnight", "second": "Snack"},
+        "title": {"first": "Merienda", "second": " de media noche"},
         "image": "/img/portfolio/full/1.jpg",
         "sub": "Design"
     },
     {
       "id": 2,
-      "title": { "first": "Fisherman", "second": "Portrait" },
+      "title": { "first": "Retrato", "second": " de pescador" },
       "image": "/img/portfolio/full/2.jpg",
       "sub": "Design"
     },
     {
       "id": 3,
-      "title": { "first": "Tribos", "second": "Urbanas" },
+      "title": { "first": "Tribus", "second": "Urbanas" },
       "image": "/img/portfolio/full/3.jpg",
       "sub": "Design"
     },
     {
       "id": 4,
-      "title": { "first": "Monsoon", "second": "in the city" },
+      "title": { "first": "Monzón", "second": " en la cuidad" },
       "image": "/img/portfolio/full/4.jpg",
       "sub": "Design"
     }

@@ -11,8 +11,7 @@ const Intro4 = ({ sliderRef, blackStar }) => {
           <div className="col-lg-10">
             <div className="cont text-center">
               <h1>
-                <span className="color-font">Creativity</span> is the process of
-                having <span className="color-font">original ideas</span>.
+                <span className="color-font">La creatividad</span> es el proceso de tener<span className="color-font">ideas originales</span>.
               </h1>
             </div>
           </div>

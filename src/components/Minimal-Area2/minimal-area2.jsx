@@ -25,21 +25,21 @@ const MinimalArea2 = () => {
           </div>
           <div className="col-lg-6 valign">
             <div className="content">
-              <h4 className="color-font">Dream. Innovate. Implement.</h4>
+              <h4 className="color-font">Sueño. Innovar. Implementar.</h4>
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                  Our creative Ad agency is ranked among the finest in the US.
-                  We cultivate smart ideas for start-ups and seasoned players.
-                  By adhering to industry standards, we create some stunning
-                  portfolios. Company branding redefines.
+                  Nuestra agencia de publicidad creativa está clasificada entre las mejores de los EE. UU.
+                  Cultivamos ideas inteligentes para empresas emergentes y jugadores experimentados.
+                  Al adherirnos a los estándares de la industria, creamos algunos impresionantes
+                  portafolios La marca de la empresa se redefine.
                 </p>
               </Split>
               <ul>
                 <li className="wow fadeInUp" data-wow-delay=".2s">
-                  We provide free initial consultation and support.
+                  Brindamos consulta inicial y soporte gratuitos.
                 </li>
                 <li className="wow fadeInUp" data-wow-delay=".4s">
-                  We work with some of the most successful businesses.
+                  Trabajamos con algunas de las empresas más exitosas.
                 </li>
               </ul>
               <Link href={`/about/about-dark`}>
@@ -47,7 +47,7 @@ const MinimalArea2 = () => {
                   className="butn bord curve mt-40 wow fadeInUp"
                   data-wow-delay=".8s"
                 >
-                  <span>Discover</span>
+                  <span>Descubrir</span>
                 </a>
               </Link>
 
