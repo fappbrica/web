@@ -1,19 +1,19 @@
 [{
     "id": 1,
     "icon": "pe-7s-smile",
-    "content": "People who are commited to their management tasks.",
+    "content": "Personas comprometidas con sus tareas de gestión.",
     "value": "2400"
 },
 {
     "id": 2,
     "icon": "pe-7s-portfolio",
-    "content": "Signed projects that have been confirmed complete!",
+    "content": "Proyectos firmados que se han confirmado como completos.",
     "value": "133"
 },
 {
     "id": 3,
     "icon": "pe-7s-medal",
-    "content": "International awards and cups for design projects.",
+    "content": "Premios y copas internacionales para proyectos de diseño.",
     "value": "46"
 }
 ]

@@ -30,7 +30,7 @@ const WorksStyle4 = () => {
           <div className="filtering col-12">
             <div className="filter wow fadeIn" data-wow-delay=".5s">
               <span data-filter="*" className="active">
-                All
+                Todos
               </span>
               <span data-filter=".brand">Marca</span>
               <span data-filter=".web">Mobile App</span>

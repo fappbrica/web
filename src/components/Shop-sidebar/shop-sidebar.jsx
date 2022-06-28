@@ -37,36 +37,36 @@ const ShopSidebar = () => {
 
         <div className="col-lg-12 col-md-6">
           <div className="box gat mb-30">
-            <h6 className="title mb-30">Category</h6>
+            <h6 className="title mb-30">Categorias</h6>
             <ul>
               <li>
                 <a href="#0">
-                  App Design <span>05</span>
+                  Diseño de App <span>05</span>
                 </a>
               </li>
               <li>
                 <a href="#0">
-                  Development <span>03</span>
+                Desarrollo <span>03</span>
                 </a>
               </li>
               <li>
                 <a href="#0">
-                  Web Design <span>07</span>
+                  Diseño de Web <span>07</span>
                 </a>
               </li>
               <li>
                 <a href="#0">
-                  Dashboard <span>04</span>
+                Panel de control <span>04</span>
                 </a>
               </li>
               <li>
                 <a href="#0">
-                  Logo Design <span>09</span>
+                  Diseño de Logo<span>09</span>
                 </a>
               </li>
               <li>
                 <a href="#0">
-                  Branding <span>14</span>
+                Marca <span>14</span>
                 </a>
               </li>
             </ul>
@@ -75,7 +75,7 @@ const ShopSidebar = () => {
 
         <div className="col-lg-12 col-md-6">
           <div className="box filter-price mb-30">
-            <h6 className="title mb-30">Filter By Price</h6>
+            <h6 className="title mb-30">Filtrar por precio</h6>
 
             <div className="range-slider mb-30">
               <div id="tooltip" ref={tooltipRef}></div>
@@ -94,14 +94,14 @@ const ShopSidebar = () => {
 
         <div className="col-lg-12 col-md-6">
           <div className="box tags">
-            <h6 className="title mb-30">Popular Tags</h6>
+            <h6 className="title mb-30">Etiquetas populares</h6>
 
             <div>
               <a href="#0">Apps</a>
-              <a href="#0">Design</a>
-              <a href="#0">Branding</a>
+              <a href="#0">Diseño</a>
+              <a href="#0">Marca</a>
               <a href="#0">Software</a>
-              <a href="#0">Development</a>
+              <a href="#0">Desarrollo</a>
               <a href="#0">Web</a>
             </div>
           </div>

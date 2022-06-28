@@ -16,10 +16,10 @@ const ShopStore = () => {
                 className="form-select"
                 aria-label="Default select example"
               >
-                <option defaultValue>Open this select menu</option>
-                <option value="1">One</option>
-                <option value="2">Two</option>
-                <option value="3">Three</option>
+                <option defaultValue>Abrir el menú de selección</option>
+                <option value="1">Uno</option>
+                <option value="2">Dos</option>
+                <option value="3">Tres</option>
               </select>
             </div>
           </div>
@@ -50,7 +50,7 @@ const ShopStore = () => {
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">
-                  Add To Cart <span className="pe-7s-angle-right"></span>
+                Añadir a la cesta <span className="pe-7s-angle-right"></span>
                 </a>
               </div>
             </div>
@@ -67,7 +67,7 @@ const ShopStore = () => {
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">
-                  Add To Cart <span className="pe-7s-angle-right"></span>
+                Añadir a la cesta <span className="pe-7s-angle-right"></span>
                 </a>
               </div>
             </div>
@@ -84,7 +84,7 @@ const ShopStore = () => {
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">
-                  Add To Cart <span className="pe-7s-angle-right"></span>
+                Añadir a la cesta <span className="pe-7s-angle-right"></span>
                 </a>
               </div>
             </div>
@@ -101,7 +101,7 @@ const ShopStore = () => {
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">
-                  Add To Cart <span className="pe-7s-angle-right"></span>
+                Añadir a la cesta <span className="pe-7s-angle-right"></span>
                 </a>
               </div>
             </div>
@@ -118,7 +118,7 @@ const ShopStore = () => {
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">
-                  Add To Cart <span className="pe-7s-angle-right"></span>
+                Añadir a la cesta <span className="pe-7s-angle-right"></span>
                 </a>
               </div>
             </div>
@@ -135,7 +135,7 @@ const ShopStore = () => {
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">
-                  Add To Cart <span className="pe-7s-angle-right"></span>
+                Añadir a la cesta <span className="pe-7s-angle-right"></span>
                 </a>
               </div>
             </div>
@@ -152,7 +152,7 @@ const ShopStore = () => {
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">
-                  Add To Cart <span className="pe-7s-angle-right"></span>
+                Añadir a la cesta <span className="pe-7s-angle-right"></span>
                 </a>
               </div>
             </div>
@@ -169,7 +169,7 @@ const ShopStore = () => {
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">
-                  Add To Cart <span className="pe-7s-angle-right"></span>
+                Añadir a la cesta <span className="pe-7s-angle-right"></span>
                 </a>
               </div>
             </div>

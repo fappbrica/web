@@ -83,7 +83,7 @@ const CaseStudy = () => {
                   <div className="cont">
                     <Link href="/showcase/showcase-dark">
                       <a>
-                        <span>Case Study</span>
+                        <span>Estudio de casos</span>
                         <h6 className="main-color">{item.date}</h6>
                         <h4>{item.title}</h4>
                       </a>

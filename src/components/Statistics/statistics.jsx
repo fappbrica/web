@@ -8,10 +8,10 @@ const Statistics = ({ LightTheme }) => {
           <div className="col-lg-6 valign">
             <div className="content md-mb50">
               <h6 className="stit mb-30">
-                <span className="left"></span> Company Statistics
+                <span className="left"></span> Estadísticas de la empresa
               </h6>
               <h2 className="mb-30">
-                We’re Professional Agency and We’ve Lot’s of Goods Achievements
+              Somos una agencia profesional y tenemos muchos logros en materia de bienes
               </h2>
               <div className="app-sta">
                 <div className="row">
@@ -19,28 +19,28 @@ const Statistics = ({ LightTheme }) => {
                     <div className="item mb-30">
                       <span className="icon pe-7s-user"></span>
                       <h3>756+</h3>
-                      <p>Saticfied Clents</p>
+                      <p>Clientes satisfechos</p>
                     </div>
                   </div>
                   <div className="col-sm-6">
                     <div className="item mb-30">
                       <span className="icon pe-7s-umbrella"></span>
                       <h3>38+</h3>
-                      <p>Years Of Experience</p>
+                      <p>Años de experiencia</p>
                     </div>
                   </div>
                   <div className="col-sm-6">
                     <div className="item">
                       <span className="icon pe-7s-global"></span>
                       <h3>5k+</h3>
-                      <p>Global Clients</p>
+                      <p>Clientes Globales</p>
                     </div>
                   </div>
                   <div className="col-sm-6">
                     <div className="item">
                       <span className="icon pe-7s-anchor"></span>
                       <h3>47+</h3>
-                      <p>Expert Team Member</p>
+                      <p>Miembro experto del equipo</p>
                     </div>
                   </div>
                 </div>

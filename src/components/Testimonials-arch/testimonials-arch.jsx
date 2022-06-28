@@ -39,7 +39,7 @@ class TestimonialsArch extends React.Component {
             <div className="col-lg-8 col-md-10">
               <div className="sec-head  text-center">
                 <h2 className="wow fadeIn" data-wow-delay=".3s">
-                  Testimonials
+                  Testimonios
                 </h2>
               </div>
             </div>
@@ -104,9 +104,7 @@ class TestimonialsArch extends React.Component {
                   </div>
                   <div className="valign">
                     <p className="fz-20 fw-200">
-                      I would highly recommend Vie Digital. I worked with the
-                      team on an animation for our &apos;Click &amp;
-                      Collect&apos; service.
+                    Recomiendo encarecidamente a Vie Digital. Trabajé con el equipo en una animación para nuestro servicio.
                     </p>
                   </div>
                 </div>
@@ -128,9 +126,7 @@ class TestimonialsArch extends React.Component {
                   </div>
                   <div className="valign">
                     <p className="fz-20 fw-200">
-                      I would highly recommend Vie Digital. I worked with the
-                      team on an animation for our &apos;Click &amp;
-                      Collect&apos; service.
+                    Recomiendo encarecidamente a Vie Digital. Trabajé con el equipo en una animación para nuestro servicio.
                     </p>
                   </div>
                 </div>
@@ -152,9 +148,7 @@ class TestimonialsArch extends React.Component {
                   </div>
                   <div className="valign">
                     <p className="fz-20 fw-200">
-                      I would highly recommend Vie Digital. I worked with the
-                      team on an animation for our &apos;Click &amp;
-                      Collect&apos; service.
+                    Recomiendo encarecidamente a Vie Digital. Trabajé con el equipo en una animación para nuestro servicio.
                     </p>
                   </div>
                 </div>
@@ -176,9 +170,7 @@ class TestimonialsArch extends React.Component {
                   </div>
                   <div className="valign">
                     <p className="fz-20 fw-200">
-                      I would highly recommend Vie Digital. I worked with the
-                      team on an animation for our &apos;Click &amp;
-                      Collect&apos; service.
+                    Recomiendo encarecidamente a Vie Digital. Trabajé con el equipo en una animación para nuestro servicio.
                     </p>
                   </div>
                 </div>

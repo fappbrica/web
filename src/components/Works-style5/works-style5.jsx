@@ -16,7 +16,7 @@ const WorksStyle5 = () => {
           <div className="col-lg-8 col-md-10">
             <div className="sec-head  text-center">
               <h2 className="wow fadeIn" data-wow-delay=".3s">
-                Projects
+                Proyectos
               </h2>
             </div>
           </div>
@@ -27,11 +27,11 @@ const WorksStyle5 = () => {
           <div className="filtering col-12">
             <div className="filter custom-font wow fadeIn" data-wow-delay=".5s">
               <span data-filter="*" className="active">
-                All
+                Todos
               </span>
               <span data-filter=".brand">Interior</span>
-              <span data-filter=".web">Architecture</span>
-              <span data-filter=".graphic">Residential</span>
+              <span data-filter=".web">Arquitectura</span>
+              <span data-filter=".graphic">Residencial</span>
             </div>
           </div>
 
@@ -49,9 +49,9 @@ const WorksStyle5 = () => {
                 </Link>
               </div>
               <div className="cont">
-                <h5>BUGANVILLA HOUSE</h5>
+                <h5>CASA BUGANVILLA</h5>
                 <span className="tags main-color custom-font">
-                  <Link href="/works/works-dark">Arch</Link>,
+                  <Link href="/works/works-dark">Archivo</Link>,
                   <Link href="/works/works-dark">Interior</Link>
                 </span>
               </div>
@@ -70,9 +70,9 @@ const WorksStyle5 = () => {
                 </Link>
               </div>
               <div className="cont">
-                <h5>The Concept</h5>
+                <h5>El concepto</h5>
                 <span className="tags main-color custom-font">
-                  <Link href="/works/works-dark">Arch</Link>,
+                  <Link href="/works/works-dark">Archivo</Link>,
                   <Link href="/works/works-dark">Interior</Link>
                 </span>
               </div>
@@ -91,9 +91,9 @@ const WorksStyle5 = () => {
                 </Link>
               </div>
               <div className="cont">
-                <h5>Private House</h5>
+                <h5>Casa privada</h5>
                 <span className="tags main-color custom-font">
-                  <Link href="/works/works-dark">Arch</Link>,
+                  <Link href="/works/works-dark">Archivo</Link>,
                   <Link href="/works/works-dark">Interior</Link>
                 </span>
               </div>
@@ -112,9 +112,9 @@ const WorksStyle5 = () => {
                 </Link>
               </div>
               <div className="cont">
-                <h5>Floating House Messinia</h5>
+                <h5>Casa flotante Messinia</h5>
                 <span className="tags main-color custom-font">
-                  <Link href="/works/works-dark">Arch</Link>,
+                  <Link href="/works/works-dark">Archivo</Link>,
                   <Link href="/works/works-dark">Interior</Link>
                 </span>
               </div>
@@ -133,9 +133,9 @@ const WorksStyle5 = () => {
                 </Link>
               </div>
               <div className="cont">
-                <h5>IN THE PINE FOREST</h5>
+                <h5>EN EL PINAR</h5>
                 <span className="tags main-color custom-font">
-                  <Link href="/works/works-dark">Arch</Link>,
+                  <Link href="/works/works-dark">Archivo</Link>,
                   <Link href="/works/works-dark">Interior</Link>
                 </span>
               </div>
@@ -154,9 +154,9 @@ const WorksStyle5 = () => {
                 </Link>
               </div>
               <div className="cont">
-                <h5>VILLAS IN SOCHI</h5>
+                <h5>VILLAS EN SOCHI</h5>
                 <span className="tags main-color custom-font">
-                  <Link href="/works/works-dark">Arch</Link>,
+                  <Link href="/works/works-dark">Archivo</Link>,
                   <Link href="/works/works-dark">Interior</Link>
                 </span>
               </div>

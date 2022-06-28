@@ -21,11 +21,10 @@ const AboutUs5 = () => {
             <div className="cont full-width">
               <h3 className="color-font">UI / UX Designer</h3>
               <h5 className="co-tit mb-15">
-                We help to create visual strategies.
+              Ayudamos a crear estrategias visuales.
               </h5>
               <p>
-                We are Vie. We create award-winning websites, remarkable brands
-                and cutting-edge apps.Nullam imperdie.
+              Somos Vie. Creamos sitios web galardonados, marcas notables y aplicaciones de vanguardia.
               </p>
               <div className="skills-box mt-40">
                 <div className="skill-item">

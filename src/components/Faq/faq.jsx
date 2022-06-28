@@ -18,10 +18,10 @@ const Faq = () => {
           <div className="col-lg-5">
             <div className="content md-mb50">
               <h6 className="stit mb-30">
-                <span className="left"></span> Faqs
+                <span className="left"></span> Preguntas frecuentes
               </h6>
               <h2 className="mb-30">
-                Have Any Questions on Minds? Frequently Asked Questions
+              ¿Tiene alguna pregunta sobre Minds? Preguntas frecuentes
               </h2>
               <p>
                 Sed perspiciatis unde omnis natus error sit voluptatem accus
@@ -29,7 +29,7 @@ const Faq = () => {
                 inventore veritatis quasi architecto
               </p>
               <a href="#0" className="butn-bord-red rounded buton mt-30">
-                <span>Get Free 7 Days Trial</span>
+                <span>Obtenga 7 días de prueba gratis</span>
               </a>
             </div>
           </div>
@@ -46,16 +46,16 @@ const Faq = () => {
                 >
                   <div className="title">
                     <h6>
-                      Everything You Want Know About Creating ?
+                    Todo lo que quieres saber sobre la creación ?
                       <span className="icon pe-7s-angle-right"></span>
                     </h6>
                   </div>
                   <div className="accordion-info">
                     <p>
-                      But must explain you how all this mistaken idea denouncing
-                      pleasure and praising pain was born and I will give you
-                      complete the system and expound the actual teachings of
-                      the great explorer
+                    Pero debo explicarte cómo nació toda esta idea errónea que denuncia el placer
+                      placer y alabando el dolor nació y te daré
+                      completo el sistema y expondré las verdaderas enseñanzas de
+                      el gran explorador
                     </p>
                   </div>
                 </div>
@@ -70,16 +70,16 @@ const Faq = () => {
                 >
                   <div className="title">
                     <h6>
-                      Frameworks Solve And Without Them ?
+                    Los marcos resuelven y sin ellos ?
                       <span className="icon pe-7s-angle-right"></span>
                     </h6>
                   </div>
                   <div className="accordion-info active">
                     <p>
-                      But must explain you how all this mistaken idea denouncing
-                      pleasure and praising pain was born and I will give you
-                      complete the system and expound the actual teachings of
-                      the great explorer
+                    Pero debo explicarte cómo nació toda esta idea errónea que denuncia el placer
+                      placer y alabando el dolor nació y te daré
+                      completo el sistema y expondré las verdaderas enseñanzas de
+                      el gran explorador
                     </p>
                   </div>
                 </div>
@@ -94,16 +94,16 @@ const Faq = () => {
                 >
                   <div className="title">
                     <h6>
-                      Getting Started With CSS Cascade Layers ?
+                      Introducción a las capas en cascada de CSS ?
                       <span className="icon pe-7s-angle-right"></span>
                     </h6>
                   </div>
                   <div className="accordion-info">
                     <p>
-                      But must explain you how all this mistaken idea denouncing
-                      pleasure and praising pain was born and I will give you
-                      complete the system and expound the actual teachings of
-                      the great explorer
+                    Pero debo explicarte cómo nació toda esta idea errónea que denuncia el placer
+                      placer y alabando el dolor nació y te daré
+                      completo el sistema y expondré las verdaderas enseñanzas de
+                      el gran explorador
                     </p>
                   </div>
                 </div>
@@ -118,16 +118,16 @@ const Faq = () => {
                 >
                   <div className="title">
                     <h6>
-                      Designing Better Links Websites Guideline ?
+                      Guía para el diseño de sitios web con mejores enlaces ?
                       <span className="icon pe-7s-angle-right"></span>
                     </h6>
                   </div>
                   <div className="accordion-info">
                     <p>
-                      But must explain you how all this mistaken idea denouncing
-                      pleasure and praising pain was born and I will give you
-                      complete the system and expound the actual teachings of
-                      the great explorer
+                    Pero debo explicarte cómo nació toda esta idea errónea que denuncia el placer
+                      placer y alabando el dolor nació y te daré
+                      completo el sistema y expondré las verdaderas enseñanzas de
+                      el gran explorador
                     </p>
                   </div>
                 </div>

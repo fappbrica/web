@@ -2,25 +2,25 @@
   {
     "id": 1,
     "title": {
-      "first": "Private",
-      "second": "Houses Turnkey"
+      "first": "Privado",
+      "second": "Casas llave en mano"
     },
-    "content": "We developed strong relationships with contractors and specialist companies offering discounted prices.",
+    "content": "Desarrollamos sólidas relaciones con contratistas y empresas especializadas que ofrecen precios reducidos.",
     "image": "/img/arch/slid/1.jpg"
   },
   {
     "id": 2,
-    "title": "Dustin Villa, Spain",
-    "content": "We developed strong relationships with contractors and specialist companies offering discounted prices.",
+    "title": "Dustin Villa, España",
+    "content": "Desarrollamos sólidas relaciones con contratistas y empresas especializadas que ofrecen precios reducidos.",
     "image": "/img/arch/slid/3.jpg"
   },
   {
     "id": 3,
     "title": {
-      "first": "Innovative",
-      "second": "Architectures"
+      "first": "Innovador",
+      "second": "Arquitecturas"
     },
-    "content": "We developed strong relationships with contractors and specialist companies offering discounted prices.",
+    "content": "Desarrollamos sólidas relaciones con contratistas y empresas especializadas que ofrecen precios reducidos.",
     "image": "/img/arch/slid/2.jpg"
   }
 ]

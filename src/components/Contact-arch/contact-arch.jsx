@@ -24,7 +24,7 @@ const ContactArch = () => {
           <div className="col-lg-8 col-md-10">
             <div className="sec-head  text-center">
               <h2 className="wow fadeIn" data-wow-delay=".3s">
-                Contact Us
+                Contáctanos 
               </h2>
             </div>
           </div>
@@ -68,7 +68,7 @@ const ContactArch = () => {
                               id="form_name"
                               type="text"
                               name="name"
-                              placeholder="Name"
+                              placeholder="Nombre"
                               required="required"
                             />
                           </div>
@@ -95,7 +95,7 @@ const ContactArch = () => {
                               as="textarea"
                               id="form_message"
                               name="message"
-                              placeholder="Message"
+                              placeholder="Mensaje"
                               rows="4"
                               required="required"
                             />
@@ -107,7 +107,7 @@ const ContactArch = () => {
                               type="submit"
                               className="nb butn light mt-30 full-width"
                             >
-                              <span className="ls3 text-u">Send Massege</span>
+                              <span className="ls3 text-u">Enviar mensaje</span>
                             </button>
                           </div>
                         </div>
