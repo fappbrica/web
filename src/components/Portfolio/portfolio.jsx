@@ -19,7 +19,7 @@ const Portfolio = ({ grid, filterPosition }) => {
                 Portfolio
               </h6>
               <h3 className="wow color-font">
-                Our Recent Web Design &amp; <br /> Some Past Projects.
+              Nuestro diseño web recientes y <br /> algunos proyectos anteriores.
               </h3>
             </div>
           </div>
@@ -38,11 +38,11 @@ const Portfolio = ({ grid, filterPosition }) => {
           >
             <div className="filter">
               <span data-filter="*" className="active">
-                All
+                Todos
               </span>
-              <span data-filter=".brand">Branding</span>
+              <span data-filter=".brand">Marca</span>
               <span data-filter=".web">Mobile App</span>
-              <span data-filter=".graphic">Creative</span>
+              <span data-filter=".graphic">Creativo</span>
             </div>
           </div>
 
@@ -66,9 +66,9 @@ const Portfolio = ({ grid, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Creativity Demand</h6>
+                <h6>Demanda de creatividad</h6>
                 <span>
-                  <Link href="/works/works-dark">Design</Link>, <Link href="/works/works-dark">WordPress</Link>
+                  <Link href="/works/works-dark">Diseño</Link>, <Link href="/works/works-dark">WordPress</Link>
                 </span>
               </div>
             </div>
@@ -92,9 +92,9 @@ const Portfolio = ({ grid, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Through The Breaking</h6>
+                <h6>A través de la ruptura</h6>
                 <span>
-                  <a href="#0">Design</a>, <a href="#0">WordPress</a>
+                  <a href="#0">Diseño</a>, <a href="#0">WordPress</a>
                 </span>
               </div>
             </div>
@@ -118,9 +118,9 @@ const Portfolio = ({ grid, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Create With Creatives</h6>
+                <h6>Crear actividades</h6>
                 <span>
-                  <a href="#0">Design</a>, <a href="#0">WordPress</a>
+                  <a href="#0">Diseño</a>, <a href="#0">WordPress</a>
                 </span>
               </div>
             </div>
@@ -144,9 +144,9 @@ const Portfolio = ({ grid, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Energies of Love</h6>
+                <h6>Energías del amor</h6>
                 <span>
-                  <a href="#0">Design</a>, <a href="#0">WordPress</a>
+                  <a href="#0">Diseño</a>, <a href="#0">WordPress</a>
                 </span>
               </div>
             </div>
@@ -170,9 +170,9 @@ const Portfolio = ({ grid, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>See It Yourself</h6>
+                <h6>Miralo vos mismo</h6>
                 <span>
-                  <a href="#0">Design</a>, <a href="#0">WordPress</a>
+                  <a href="#0">Diseño</a>, <a href="#0">WordPress</a>
                 </span>
               </div>
             </div>
@@ -196,9 +196,9 @@ const Portfolio = ({ grid, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Blast From The Past</h6>
+                <h6>Explosión del pasado</h6>
                 <span>
-                  <a href="#0">Design</a>, <a href="#0">WordPress</a>
+                  <a href="#0">Diseño</a>, <a href="#0">WordPress</a>
                 </span>
               </div>
             </div>

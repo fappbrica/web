@@ -176,13 +176,13 @@ const Blogs4 = () => {
                     <div className="item wow fadeIn" data-wow-delay=".6s">
                       <div className="content">
                         <div className="tags">
-                          <Link href="/blog/blog-dark">Trending</Link>
+                          <Link href="/blog/blog-dark">Tendencias</Link>
                         </div>
                         <div className="info">
                           <Link href="/blog/blog-dark">
                             <a>
                               <i className="far fa-clock"></i>
-                              06 Aug 2022
+                              06 Agosto 2022
                             </a>
                           </Link>
                           <a href="#0">by Alex Morgan</a>
@@ -190,20 +190,20 @@ const Blogs4 = () => {
                         <div className="title">
                           <h4>
                             <Link href="/blog-details/blog-details-dark">
-                              Create The Lifestyle You Really Desire This World
+                              Crea el estilo de vida que realmente deseas en este mundo
                             </Link>
                           </h4>
                         </div>
                         <div className="text">
                           <p>
-                            Success is no accident. It is hard work,
-                            perseverance, learning, studying, sacrifice and most
-                            of all, love of what you are doing.
+                          El éxito no es un accidente. Es un trabajo duro,
+                          perseverancia, aprendizaje, estudio, sacrificio y lo más
+                          de todo, amor por lo que haces.
                           </p>
                         </div>
                         <div className="more">
                           <Link href={`/blog-details/blog-details-dark`}>
-                            Read More
+                          Leer más
                           </Link>
                         </div>
                       </div>
@@ -213,13 +213,13 @@ const Blogs4 = () => {
                     <div className="item wow fadeIn" data-wow-delay=".6s">
                       <div className="content">
                         <div className="tags">
-                          <Link href="/blog/blog-dark">Trending</Link>
+                          <Link href="/blog/blog-dark">Tendencias</Link>
                         </div>
                         <div className="info">
                           <Link href="/blog/blog-dark">
                             <a>
                               <i className="far fa-clock"></i>
-                              06 Aug 2022
+                              06 Agosto 2022
                             </a>
                           </Link>
                           <a href="#0">by Alex Morgan</a>
@@ -227,36 +227,36 @@ const Blogs4 = () => {
                         <div className="title">
                           <h4>
                             <Link href="/blog-details/blog-details-dark">
-                              <a>List of The Best Investment Projects</a>
+                              <a>Lista de los mejores proyectos de inversión</a>
                             </Link>
                           </h4>
                         </div>
                         <div className="text">
                           <p>
-                            Success is no accident. It is hard work,
-                            perseverance, learning, studying, sacrifice and most
-                            of all, love of what you are doing.
+                            El éxito no es un accidente. Es un trabajo duro,
+                            perseverancia, aprendizaje, estudio, sacrificio y lo más
+                            de todo, amor por lo que haces.
                           </p>
                         </div>
                         <div className="more">
                           <Link href={`/blog-details/blog-details-dark`}>
-                            Read More
+                          Leer más
                           </Link>
                         </div>
                       </div>
                     </div>
                   </SwiperSlide>
-                  <SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
                     <div className="item wow fadeIn" data-wow-delay=".6s">
                       <div className="content">
                         <div className="tags">
-                          <Link href="/blog/blog-dark">Trending</Link>
+                          <Link href="/blog/blog-dark">Tendencias</Link>
                         </div>
                         <div className="info">
                           <Link href="/blog/blog-dark">
                             <a>
                               <i className="far fa-clock"></i>
-                              06 Aug 2022
+                              06 Agosto 2022
                             </a>
                           </Link>
                           <a href="#0">by Alex Morgan</a>
@@ -264,20 +264,20 @@ const Blogs4 = () => {
                         <div className="title">
                           <h4>
                             <Link href="/blog-details/blog-details-dark">
-                              <a>World Best Business Website Company</a>
+                              Crea el estilo de vida que realmente deseas en este mundo
                             </Link>
                           </h4>
                         </div>
                         <div className="text">
                           <p>
-                            Success is no accident. It is hard work,
-                            perseverance, learning, studying, sacrifice and most
-                            of all, love of what you are doing.
+                          El éxito no es un accidente. Es un trabajo duro,
+                          perseverancia, aprendizaje, estudio, sacrificio y lo más
+                          de todo, amor por lo que haces.
                           </p>
                         </div>
                         <div className="more">
                           <Link href={`/blog-details/blog-details-dark`}>
-                            Read More
+                          Leer más
                           </Link>
                         </div>
                       </div>

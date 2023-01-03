@@ -8,10 +8,10 @@ const Blogs2 = () => {
           <div className="col-lg-7 col-md-10">
             <div className="s-head text-center mb-80">
               <h6 className="stit mb-30">
-                <span className="left"></span> Blog and News
+                <span className="left"></span> Blog y noticias
                 <span className="right"></span>
               </h6>
-              <h2>Read Latest Artices and Tips Latest News & Blog</h2>
+              <h2>Lea los últimos artículos y consejos últimas noticias y blog</h2>
             </div>
           </div>
         </div>
@@ -28,26 +28,26 @@ const Blogs2 = () => {
                   <div className="cont">
                     <div className="full-width">
                       <div className="tag">
-                        <a href="#0">Design & Arts</a>
+                        <a href="#0">Diseño y Arte</a>
                       </div>
                       <div className="title">
                         <h5>
-                          Everything You Want Know About Creating Voice
+                          Todo lo que quiere saber sobre la creación de voz
                           Interfaces
                         </h5>
                       </div>
                       <div className="info">
                         <a href="#0">
-                          <span>Post By :</span>
+                          <span>Publicado por :</span>
                           Lisa A. Cowles
                         </a>
                         <a href="#0">
-                          <span>Comments :</span>
+                          <span>Comentado por :</span>
                           (05)
                         </a>
                       </div>
                       <a href="#0" className="butn-bord-red rounded buton">
-                        <span>Read More</span>
+                        <span>Leer más</span>
                       </a>
                     </div>
                   </div>
@@ -67,26 +67,26 @@ const Blogs2 = () => {
                   <div className="cont">
                     <div className="full-width">
                       <div className="tag">
-                        <a href="#0">Design & Arts</a>
+                        <a href="#0">Diseño y Arte</a>
                       </div>
                       <div className="title">
                         <h5>
-                          Everything You Want Know About Creating Voice
+                          Todo lo que quiere saber sobre la creación de voz
                           Interfaces
                         </h5>
                       </div>
                       <div className="info">
                         <a href="#0">
-                          <span>Post By :</span>
+                          <span>Publicado por :</span>
                           Lisa A. Cowles
                         </a>
                         <a href="#0">
-                          <span>Comments :</span>
+                          <span>Comentado por :</span>
                           (05)
                         </a>
                       </div>
                       <a href="#0" className="butn-bord-red rounded buton">
-                        <span>Read More</span>
+                        <span>Leer más</span>
                       </a>
                     </div>
                   </div>

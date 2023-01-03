@@ -10,18 +10,17 @@ const Intro2 = ({ sliderRef }) => {
           <div className="col-lg-6 valign">
             <div className="cont md-mb50">
               <div className="sub-title mb-5">
-                <h6>Digital Consulting Agency</h6>
+                <h6>Agencia de consultoria digital</h6>
               </div>
-              <h1 className="mb-10 fw-600">Unique Business Consulting.</h1>
+              <h1 className="mb-10 fw-600">Consultoría Empresarial Única.</h1>
               <p>
-                We help our clients succeed by creating brand identities,
-                digital experiences, and print materials.
+              Ayudamos a nuestros clientes a tener éxito mediante la creación de identidades de marca, experiencias digitales y materiales impresos.
               </p>
               <Link
                 href={`/about/about-dark`}
               >
                 <a className="butn bord curve mt-30">
-                  <span>About Us</span>
+                  <span>Sobre nosotros</span>
                 </a>
               </Link>
             </div>

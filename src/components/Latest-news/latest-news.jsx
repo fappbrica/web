@@ -10,7 +10,7 @@ const LatestNews = () => {
           <div className="col-lg-8 col-md-10">
             <div className="sec-head  text-center">
               <h2 className="wow fadeIn" data-wow-delay=".3s">
-                Latest News
+                Últimas noticias
               </h2>
             </div>
           </div>
@@ -27,27 +27,27 @@ const LatestNews = () => {
                     <Link href="/blog/blog-dark">
                       <a className="date">
                         <span>
-                          <i>06</i> August
+                          <i>06</i> Agosto
                         </span>
                       </a>
                     </Link>
                     <span>/</span>
                     <Link href="/blog/blog-dark">
                       <a className="tag">
-                        <span className="main-color">Architecture</span>
+                        <span className="main-color">Arquitectura</span>
                       </a>
                     </Link>
                   </div>
                   <h5>
                     <Link href="/blog-details/blog-details-dark">
                       <a>
-                        How to use solid color combine with simple furnitures.
+                      Cómo combinar el color sólido con muebles sencillos.
                       </a>
                     </Link>
                   </h5>
                   <div className="btn-more">
                     <Link href="/blog-details/blog-details-dark">
-                      <a className="simple-btn main-color">Read More</a>
+                      <a className="simple-btn main-color">Leer más</a>
                     </Link>
                   </div>
                 </div>
@@ -65,27 +65,27 @@ const LatestNews = () => {
                     <Link href="/blog/blog-dark">
                       <a className="date">
                         <span>
-                          <i>06</i> August
+                          <i>06</i> Agosto
                         </span>
                       </a>
                     </Link>
                     <span>/</span>
                     <Link href="/blog/blog-dark">
                       <a className="tag">
-                        <span className="main-color">Architecture</span>
+                        <span className="main-color">Arquitectura</span>
                       </a>
                     </Link>
                   </div>
                   <h5>
                     <Link href="/blog-details/blog-details-dark">
                       <a>
-                        How to use solid color combine with simple furnitures.
+                      Cómo combinar el color sólido con muebles sencillos.
                       </a>
                     </Link>
                   </h5>
                   <div className="btn-more">
                     <Link href="/blog-details/blog-details-dark">
-                      <a className="simple-btn main-color">Read More</a>
+                      <a className="simple-btn main-color">Leer más</a>
                     </Link>
                   </div>
                 </div>

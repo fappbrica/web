@@ -18,7 +18,7 @@ const NextProject = () => {
                   <div className="o-hidden full-width">
                     <h1>
                       <a href="">
-                        <div className="stroke">Natural plus modern.</div>
+                        <div className="stroke">Natural y moderno.</div>
                       </a>
                     </h1>
                   </div>
@@ -27,7 +27,7 @@ const NextProject = () => {
                   <div className="cap full-width">
                     <h1>
                       <a href="">
-                        <span>Natural plus modern.</span>
+                        <span>Natural y moderno.</span>
                       </a>
                     </h1>
                   </div>

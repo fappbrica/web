@@ -18,9 +18,9 @@ const WorksStyle3 = () => {
               <span data-filter="*" className="active">
                 All
               </span>
-              <span data-filter=".brand">Branding</span>
+              <span data-filter=".brand">Marca</span>
               <span data-filter=".web">Mobile App</span>
-              <span data-filter=".graphic">Creative</span>
+              <span data-filter=".graphic">Creativo</span>
             </div>
           </div>
 
@@ -37,9 +37,9 @@ const WorksStyle3 = () => {
                 </Link>
               </div>
               <div className="cont flex">
-                <h6 className="color-font">Creative Design</h6>
+                <h6 className="color-font">Diseño Creativo</h6>
                 <span>
-                  <a href="#0">Graphic</a>
+                  <a href="#0">Gráfico</a>
                 </span>
               </div>
             </div>
@@ -56,9 +56,9 @@ const WorksStyle3 = () => {
                 </Link>
               </div>
               <div className="cont flex">
-                <h6 className="color-font">Modern Design</h6>
+                <h6 className="color-font">Diseño Moderno</h6>
                 <span>
-                  <a href="#0">Brand</a>, <a href="#0">Web</a>
+                  <a href="#0">Marca</a>, <a href="#0">Web</a>
                 </span>
               </div>
             </div>
@@ -78,7 +78,7 @@ const WorksStyle3 = () => {
                 </Link>
               </div>
               <div className="cont">
-                <h6 className="color-font">Creative Design</h6>
+                <h6 className="color-font">Diseño Creativo</h6>
                 <span>
                   <a href="#0">Website</a>
                 </span>
@@ -100,9 +100,9 @@ const WorksStyle3 = () => {
                 </Link>
               </div>
               <div className="cont">
-                <h6 className="color-font">Modern Design</h6>
+                <h6 className="color-font">Diseño moderno</h6>
                 <span>
-                  <a href="#0">Graphic</a>
+                  <a href="#0">Gráfico</a>
                 </span>
               </div>
             </div>

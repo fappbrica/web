@@ -8,10 +8,10 @@ const Services8 = () => {
           <div className="col-lg-7 col-md-10">
             <div className="s-head text-center mb-80">
               <h6 className="stit mb-30">
-                <span className="left"></span> Application Features
+                <span className="left"></span> Funciones de la aplicación
                 <span className="right"></span>
               </h6>
-              <h2>Amazing Features to Customize your Application Easy</h2>
+              <h2>Funciones increíbles para personalizar su aplicación fácilmente</h2>
             </div>
           </div>
         </div>
@@ -23,7 +23,7 @@ const Services8 = () => {
                   <span className="pe-7s-vector"></span>
                 </div>
                 <div className="text-tit">
-                  <h5>Modern Design</h5>
+                  <h5>Diseño moderno</h5>
                 </div>
               </div>
 
@@ -40,7 +40,7 @@ const Services8 = () => {
                   <span className="pe-7s-rocket"></span>
                 </div>
                 <div className="text-tit">
-                  <h5>Fast Installation</h5>
+                  <h5>Instalación rápida</h5>
                 </div>
               </div>
 
@@ -57,7 +57,7 @@ const Services8 = () => {
                   <span className="pe-7s-graph3"></span>
                 </div>
                 <div className="text-tit">
-                  <h5>Digital Analytics</h5>
+                  <h5>Análisis digital</h5>
                 </div>
               </div>
 
@@ -74,7 +74,7 @@ const Services8 = () => {
                   <span className="pe-7s-anchor"></span>
                 </div>
                 <div className="text-tit">
-                  <h5>SEO Friendly</h5>
+                  <h5>SEO amigable</h5>
                 </div>
               </div>
 
@@ -91,7 +91,7 @@ const Services8 = () => {
                   <span className="pe-7s-phone"></span>
                 </div>
                 <div className="text-tit">
-                  <h5>Clean Coding</h5>
+                  <h5>Código limpio</h5>
                 </div>
               </div>
 
@@ -108,7 +108,7 @@ const Services8 = () => {
                   <span className="pe-7s-lock"></span>
                 </div>
                 <div className="text-tit">
-                  <h5>Heigh Security</h5>
+                  <h5>Alta seguridad</h5>
                 </div>
               </div>
 

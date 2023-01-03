@@ -15,8 +15,7 @@ const FreelancreIntro = () => {
           <div className="col-lg-8 valign">
             <div className="cont">
               <h1 className="cd-headline clip">
-                Hello, My name is hisham i love design and i hope to make
-                awesome designs and also i create a
+              Hola, Mi nombre es Hisham me encanta el diseño y espero hacer diseños impresionantes y también creo un
                 <span
                   style={{ fontSize: "35px", lineHeight: "49px" }}
                   className="cd-words-wrapper"
@@ -27,7 +26,7 @@ const FreelancreIntro = () => {
                       strings: [
                         "Mobile Apps",
                         "Landing Pages",
-                        "Awesome Design",
+                        "Diseño impresionante",
                       ],
                       autoStart: true,
                       loop: true,
@@ -52,7 +51,7 @@ const FreelancreIntro = () => {
                 </div>
                 <div className="text valign">
                   <p>
-                    Years <br /> Of Experience
+                    Años <br /> De Experiencia
                   </p>
                 </div>
               </li>
@@ -63,7 +62,7 @@ const FreelancreIntro = () => {
                 </div>
                 <div className="text valign">
                   <p>
-                    Projects Completed <br /> In 19 Countries
+                  Proyectos realizados <br /> en 19 países
                   </p>
                 </div>
               </li>
@@ -73,7 +72,7 @@ const FreelancreIntro = () => {
                   <div className="flex">
                     <div className="text valign">
                       <div className="full-width">
-                        <p>Get In Touch</p>
+                        <p>Ponete en contacto</p>
                         <h6>Vie_Support@Gmail.Com</h6>
                       </div>
                     </div>

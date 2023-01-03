@@ -45,44 +45,44 @@ const NavbarArch = ({ navbarRef, theme }) => {
                 data-toggle="dropdown"
                 data-scroll-nav="0"
               >
-                Home
+                Inicio
               </span>
               <div className="dropdown-menu">
                 <a
                   className="dropdown-item"
                   href={`/homepage/home1-dark`}
                 >
-                  Main Home
+                  Página principal
                 </a>
                 <a
                   className="dropdown-item"
                   href={`/homepage/home2-dark`}
                 >
-                  Creative Agency
+                  Agencia creativa
                 </a>
                 <a
                   className="dropdown-item"
                   href={`/homepage/home5-dark`}
                 >
-                  Digital Agency
+                  Agencia digital
                 </a>
                 <a
                   className="dropdown-item"
                   href={`/homepage/home4-dark`}
                 >
-                  Business One Page
+                  Seccion de negocios
                 </a>
                 <a
                   className="dropdown-item"
                   href={`/homepage/home3-dark`}
                 >
-                  Corporate Business
+                  Empresas
                 </a>
                 <a
                   className="dropdown-item"
                   href={`/homepage/home6-dark`}
                 >
-                  Modern Agency
+                  Agencia moderna
                 </a>
                 <a
                   className="dropdown-item"
@@ -94,7 +94,7 @@ const NavbarArch = ({ navbarRef, theme }) => {
                   className="dropdown-item"
                   href={`/homepage/home8-dark`}
                 >
-                  Architecture
+                  Arquitectura
                 </a>
               </div>
             </li>
@@ -108,7 +108,7 @@ const NavbarArch = ({ navbarRef, theme }) => {
                 offset={50}
                 duration={500}
               >
-                About
+                Somos
               </Link>
             </li>
             <li className="nav-item">
@@ -120,7 +120,7 @@ const NavbarArch = ({ navbarRef, theme }) => {
                 offset={50}
                 duration={500}
               >
-                Works
+                Obras
               </Link>
             </li>
             <li className="nav-item">
@@ -132,7 +132,7 @@ const NavbarArch = ({ navbarRef, theme }) => {
                 offset={50}
                 duration={500}
               >
-                Team
+                Equipo
               </Link>
             </li>
             <li className="nav-item">
@@ -144,7 +144,7 @@ const NavbarArch = ({ navbarRef, theme }) => {
                 offset={50}
                 duration={500}
               >
-                Testimonials
+                Testimonios
               </Link>
             </li>
             <li className="nav-item">
@@ -168,7 +168,7 @@ const NavbarArch = ({ navbarRef, theme }) => {
                 offset={50}
                 duration={500}
               >
-                Contact
+                Contacto
               </Link>
             </li>
           </ul>

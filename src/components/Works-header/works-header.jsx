@@ -15,16 +15,14 @@ const WorksHeader = ({ sliderRef }) => {
           <div className="col-lg-7 col-md-9 static">
             <div className="capt mt-50">
               <div className="parlx text-center">
-                <h1 className="color-font">amazing works</h1>
+                <h1 className="color-font">Obras increíbles</h1>
                 <p>
-                  Creativity involves breaking out of expected &amp; repeatable
-                  patterns in order to look at things in different way than ever
-                  before.
+                La creatividad implica romper con los patrones esperados y repetibles para ver las cosas de una manera diferente a como nunca antes.
                 </p>
               </div>
 
               <div className="bactxt custom-font valign">
-                <span className="full-width">Works</span>
+                <span className="full-width">Obras</span>
               </div>
             </div>
           </div>

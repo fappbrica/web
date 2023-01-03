@@ -9,7 +9,7 @@ const Team3 = () => {
           <div className="col-lg-8 col-md-10">
             <div className="sec-head text-center">
               <h2 className="wow fadeIn" data-wow-delay=".3s">
-                Our Team
+              Nuestro equipo
               </h2>
             </div>
           </div>

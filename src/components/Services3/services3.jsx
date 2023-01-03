@@ -13,10 +13,10 @@ const Services3 = () => {
           <div className="col-lg-8 col-md-10">
             <div className="sec-head">
               <h6 className="wow fadeIn" data-wow-delay=".5s">
-                Best Services
+                Mejores servicios
               </h6>
               <h3 className="wow color-font">
-                We help to create strategies, design &amp; development.
+                Ayudamos a crear estrategias, diseño y desarrollo.
               </h3>
             </div>
           </div>
@@ -27,10 +27,9 @@ const Services3 = () => {
               <span className="icon">
                 <i className="ion-ios-monitor"></i>
               </span>
-              <h5>Interface Design</h5>
+              <h5>Diseño de interfaz</h5>
               <p>
-                Implementation and rollout of new network infrastructure,
-                including consolidation.
+              Implementación y despliegue de nueva infraestructura de red, incluida la consolidación.
               </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke">
@@ -44,10 +43,9 @@ const Services3 = () => {
               <span className="icon">
                 <i className="ion-ios-bolt-outline"></i>
               </span>
-              <h5>Creative Always</h5>
+              <h5>Creativo Siempre</h5>
               <p>
-                Implementation and rollout of new network infrastructure,
-                including consolidation.
+              Implementación y despliegue de nueva infraestructura de red, incluida la consolidación.
               </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke">
@@ -61,10 +59,9 @@ const Services3 = () => {
               <span className="icon">
                 <i className="ion-cube"></i>
               </span>
-              <h5>Real-time Editing</h5>
+              <h5>Edición en tiempo real</h5>
               <p>
-                Implementation and rollout of new network infrastructure,
-                including consolidation.
+              Implementación y despliegue de nueva infraestructura de red, incluida la consolidación.
               </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke">
@@ -78,10 +75,9 @@ const Services3 = () => {
               <span className="icon">
                 <i className="ion-ios-color-wand"></i>
               </span>
-              <h5>Art Concept</h5>
+              <h5>Concepto de Arte</h5>
               <p>
-                Implementation and rollout of new network infrastructure,
-                including consolidation.
+              Implementación y despliegue de nueva infraestructura de red, incluida la consolidación.
               </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke">

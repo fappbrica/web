@@ -20,7 +20,7 @@ const AboutUs6 = () => {
                     >
                       25
                     </h2>
-                    <p>Years Of Experience</p>
+                    <p>Años de experiencia</p>
                   </div>
                 </div>
               </div>
@@ -28,20 +28,17 @@ const AboutUs6 = () => {
 
             <div className="col-lg-6 valign">
               <div className="content">
-                <h6 className="sub-title main-color ls10 text-u">About Us</h6>
-                <h3>Best Designers Architectures for You.</h3>
+                <h6 className="sub-title main-color ls10 text-u">Sobre nosotros</h6>
+                <h3>Las mejores arquitecturas de diseñadores para ti.</h3>
                 <p>
-                  Architecture bibendum pharetra eleifend. Suspendisse vel
-                  volutpat purus, sit amet bibendum nisl. Cras mollis turpis a
-                  ipsum ultes, nec condimentum ipsum consequat. Mauris vitae
-                  consequat nibh, vitae interdum sit amet bibendum nisl.
+                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio impedit molestiae culpa natus fugiat voluptas itaque repellat, atque non iure neque ex facere odit deserunt nobis inventore debitis? Corrupti, vitae!
                 </p>
 
                 <Link
                   href={`/about/about-dark`}
                 >
                   <a className="butn bord mt-30">
-                    <span>About Us</span>
+                    <span>Sobre nosotros</span>
                   </a>
                 </Link>
               </div>

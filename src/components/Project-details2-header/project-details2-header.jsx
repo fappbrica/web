@@ -20,7 +20,7 @@ const ProjectDetails2Header = ({ projectHeaderData }) => {
         <div className="row">
           <div className="col-lg-3">
             <div className="item mt-30">
-              <h6>Client</h6>
+              <h6>Clientes</h6>
               <p>
                 <Link href={projectHeaderData.clientURLLink}>
                   <a>{projectHeaderData.clientURLName}</a>
@@ -30,13 +30,13 @@ const ProjectDetails2Header = ({ projectHeaderData }) => {
           </div>
           <div className="col-lg-3">
             <div className="item mt-30">
-              <h6>Date</h6>
+              <h6>Fecha</h6>
               <p>{projectHeaderData.date}</p>
             </div>
           </div>
           <div className="col-lg-3">
             <div className="item mt-30">
-              <h6>Categories</h6>
+              <h6>Categorias</h6>
               <p>
                 {projectHeaderData.categories.map((cat, index) => (
                   <Link href={cat.link} key={cat.id}>
@@ -53,7 +53,7 @@ const ProjectDetails2Header = ({ projectHeaderData }) => {
           </div>
           <div className="col-lg-3">
             <div className="item mt-30">
-              <h6>Tags</h6>
+              <h6>Etiquetas</h6>
               <p>
                 {projectHeaderData.tags.map((tag, index) => (
                   <Link href={tag.link} key={tag.id}>

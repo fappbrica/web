@@ -49,10 +49,10 @@ const VideoWithTeam = () => {
           <div className="col-lg-7 col-md-10">
             <div className="s-head text-center mb-80">
               <h6 className="stit mb-30">
-                <span className="left"></span> Meet Our Team
+                <span className="left"></span> Conoce a nuestro equipo
                 <span className="right"></span>
               </h6>
-              <h2>We’ve Experience Team Member to Provide Solutions</h2>
+              <h2>Tenemos un equipo con experiencia para dar soluciones</h2>
             </div>
           </div>
         </div>
@@ -76,7 +76,7 @@ const VideoWithTeam = () => {
               </div>
               <div className="info">
                 <h5>John J. Schreffler</h5>
-                <p>Apps Designer</p>
+                <p>Diseño de App</p>
               </div>
             </div>
           </div>
@@ -98,7 +98,7 @@ const VideoWithTeam = () => {
               </div>
               <div className="info">
                 <h5>Joel R. Funkhouser</h5>
-                <p>Senior Manager</p>
+                <p>Director General</p>
               </div>
             </div>
           </div>

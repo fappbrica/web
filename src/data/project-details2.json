@@ -1,15 +1,15 @@
 {
   "id": 1,
-  "title": { "small": "art & illustration", "big": "Inspiring new space." },
+  "title": { "small": "arte e ilustración", "big": "Nuevo espacio inspirador." },
   "clientURLLink": "#",
   "projectHeaderImage": "/img/portfolio/project2/bg.jpg",
   "videoLink": "https://vimeo.com/127203262",
   "clientURLName": "Envato.com",
-  "date": "6 August 2022",
+  "date": "6 Agosto 2022",
   "categories": [
     {
       "id": 1,
-      "name": "Web Design",
+      "name": "Diseño web",
       "link": "#"
     },
     {
@@ -21,26 +21,26 @@
   "tags": [
     {
       "id": 1,
-      "name": "Minimal",
+      "name": "Mínimo",
       "link": "#"
     },
     {
       "id": 2,
-      "name": "Modern",
+      "name": "Moderno",
       "link": "#"
     },
     {
       "id": 3,
-      "name": "Design",
+      "name": "Diseño",
       "link": "#"
     }
   ],
   "intro": {
-    "content": "We are a Creative Agency & Startup Studio that provides Digital Products and Services turns to focus on client success. We specialize in user interface design, including front-end development which we consider to be an integral part.",
+    "content": "Somos una Agencia Creativa & Startup Studio que proporciona Turnos de Productos y Servicios Digitales para enfocarnos en el éxito del cliente. Nos especializamos en el diseño de interfaces de usuario, incluido el desarrollo front-end, que consideramos parte integral.",
     "spmList": [
       {
         "id": 1,
-        "name": "Aenean sollicitudin"
+        "name": "Solicitud aeneana"
       },
       {
         "id": 2,
@@ -64,6 +64,6 @@
     "/img/portfolio/project2/7.jpg"
   ],
   "description": {
-    "content": "We are a Creative Agency & Startup Studio that provides Digital Products and Services turns to focus on client success. We specialize in user interface design, including front-end development which we consider to be an integral part."
+    "content": "Somos una Agencia Creativa & Startup Studio que proporciona Turnos de Productos y Servicios Digitales para enfocarnos en el éxito del cliente. Nos especializamos en el diseño de interfaces de usuario, incluido el desarrollo front-end, que consideramos parte integral."
   }
 }

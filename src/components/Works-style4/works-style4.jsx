@@ -19,7 +19,7 @@ const WorksStyle4 = () => {
                 Portfolio
               </h6>
               <h3 className="wow color-font">
-                Our Recent Web Design & <br /> Some Past Projects.
+                Nuestro Diseño Web reciente y <br /> algunos Proyectos pasados.
               </h3>
             </div>
           </div>
@@ -30,11 +30,11 @@ const WorksStyle4 = () => {
           <div className="filtering col-12">
             <div className="filter wow fadeIn" data-wow-delay=".5s">
               <span data-filter="*" className="active">
-                All
+                Todos
               </span>
-              <span data-filter=".brand">Branding</span>
+              <span data-filter=".brand">Marca</span>
               <span data-filter=".web">Mobile App</span>
-              <span data-filter=".graphic">Creative</span>
+              <span data-filter=".graphic">Creativo</span>
             </div>
           </div>
 
@@ -45,7 +45,7 @@ const WorksStyle4 = () => {
             >
               <div className="item-img">
                 <div className="cont">
-                  <h6>Creative Mobile App</h6>
+                  <h6>Creativo Mobile App</h6>
                   <p>Ui / Ux creative mobile app design</p>
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
@@ -59,10 +59,10 @@ const WorksStyle4 = () => {
                     <Link href="/works2/works2-dark">App</Link>
                   </span>
                   <span>
-                    <Link href="/works2/works2-dark">Fitnes</Link>
+                    <Link href="/works2/works2-dark">Fitness</Link>
                   </span>
                   <span>
-                    <Link href="/works2/works2-dark">Creative</Link>
+                    <Link href="/works2/works2-dark">Creativo</Link>
                   </span>
                 </div>
               </div>
@@ -74,7 +74,7 @@ const WorksStyle4 = () => {
             >
               <div className="item-img">
                 <div className="cont">
-                  <h6>Creative Mobile App</h6>
+                  <h6>Creativo Mobile App</h6>
                   <p>Ui / Ux creative mobile app design</p>
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
@@ -88,10 +88,10 @@ const WorksStyle4 = () => {
                     <Link href="/works2/works2-dark">App</Link>
                   </span>
                   <span>
-                    <Link href="/works2/works2-dark">Fitnes</Link>
+                    <Link href="/works2/works2-dark">Fitness</Link>
                   </span>
                   <span>
-                    <Link href="/works2/works2-dark">Creative</Link>
+                    <Link href="/works2/works2-dark">Creativo</Link>
                   </span>
                 </div>
               </div>
@@ -103,7 +103,7 @@ const WorksStyle4 = () => {
             >
               <div className="item-img">
                 <div className="cont">
-                  <h6>Creative Mobile App</h6>
+                  <h6>Creativo Mobile App</h6>
                   <p>Ui / Ux creative mobile app design</p>
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
@@ -117,10 +117,10 @@ const WorksStyle4 = () => {
                     <Link href="/works2/works2-dark">App</Link>
                   </span>
                   <span>
-                    <Link href="/works2/works2-dark">Fitnes</Link>
+                    <Link href="/works2/works2-dark">Fitness</Link>
                   </span>
                   <span>
-                    <Link href="/works2/works2-dark">Creative</Link>
+                    <Link href="/works2/works2-dark">Creativo</Link>
                   </span>
                 </div>
               </div>
@@ -132,7 +132,7 @@ const WorksStyle4 = () => {
             >
               <div className="item-img">
                 <div className="cont">
-                  <h6>Creative Mobile App</h6>
+                  <h6>Creativo Mobile App</h6>
                   <p>Ui / Ux creative mobile app design</p>
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
@@ -146,10 +146,10 @@ const WorksStyle4 = () => {
                     <Link href="/works2/works2-dark">App</Link>
                   </span>
                   <span>
-                    <Link href="/works2/works2-dark">Fitnes</Link>
+                    <Link href="/works2/works2-dark">Fitness</Link>
                   </span>
                   <span>
-                    <Link href="/works2/works2-dark">Creative</Link>
+                    <Link href="/works2/works2-dark">Creativo</Link>
                   </span>
                 </div>
               </div>
@@ -161,7 +161,7 @@ const WorksStyle4 = () => {
             >
               <div className="item-img">
                 <div className="cont">
-                  <h6>Creative Mobile App</h6>
+                  <h6>Creativo Mobile App</h6>
                   <p>Ui / Ux creative mobile app design</p>
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
@@ -175,10 +175,10 @@ const WorksStyle4 = () => {
                     <Link href="/works2/works2-dark">App</Link>
                   </span>
                   <span>
-                    <Link href="/works2/works2-dark">Fitnes</Link>
+                    <Link href="/works2/works2-dark">Fitness</Link>
                   </span>
                   <span>
-                    <Link href="/works2/works2-dark">Creative</Link>
+                    <Link href="/works2/works2-dark">Creativo</Link>
                   </span>
                 </div>
               </div>
@@ -190,7 +190,7 @@ const WorksStyle4 = () => {
             >
               <div className="item-img">
                 <div className="cont">
-                  <h6>Creative Mobile App</h6>
+                  <h6>Creativo Mobile App</h6>
                   <p>Ui / Ux creative mobile app design</p>
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
@@ -204,10 +204,10 @@ const WorksStyle4 = () => {
                     <Link href="/works2/works2-dark">App</Link>
                   </span>
                   <span>
-                    <Link href="/works2/works2-dark">Fitnes</Link>
+                    <Link href="/works2/works2-dark">Fitness</Link>
                   </span>
                   <span>
-                    <Link href="/works2/works2-dark">Creative</Link>
+                    <Link href="/works2/works2-dark">Creativo</Link>
                   </span>
                 </div>
               </div>

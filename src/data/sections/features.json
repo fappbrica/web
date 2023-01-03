@@ -2,25 +2,25 @@
     {
         "id": 1,
         "icon": "pe-7s-paint-bucket",
-        "title": "Graphic Design",
-        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+        "title": "Diseño Gráfico",
+        "content": "Aplicamos los principios del diseño, como el color y la composición, a la creación más técnica de una página web y sus funciones. UX/UI: La experiencia y la interfaz de usuario son dos de los aspectos más importantes."
     },
     {
         "id": 2,
         "icon": "pe-7s-phone",
-        "title": "Web & Mobile Design",
-        "content": "Tempore corrupti temporibus fuga earum asperiores fugit."
+        "title": "Diseño Web & Mobile",
+        "content": "Construimos sitios Web corporativos, ecommerce, elearning, landing pages. También desarrollamos aplicaciones móviles nativas o híbridas, diseñadas para conectarte con tus clientes en cualquier momento y lugar."
     },
     {
         "id": 3,
         "icon": "pe-7s-display1",
-        "title": "Social Media Marketing",
-        "content": "Tempore corrupti temporibus fuga earum asperiores fugit."
+        "title": "Marketing Digital",
+        "content": "Aplicamos las estrategias fundamentales de marketing digital, para llegar a los clientes a través de los sitios web, las redes sociales y correos electrónicos, entre otros."
     },
     {
         "id": 4,
         "icon": "pe-7s-diskette",
-        "title": "Document Legal Policy",
-        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+        "title": "Políticas de privacidad",
+        "content": "Somos conscientes de las Políticas de Privacidad, por eso asumimos el compromiso de cumplir con los requisitos aplicables y mejorar nuestro sistema de gestión de calidad. "
     }
 ]

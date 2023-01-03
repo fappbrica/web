@@ -4,12 +4,12 @@
   "image2": "/img/02.jpg",
   "exp": {
     "nmb": 28,
-    "name": "Years Of Experience"
+    "name": "Años de experiencia"
   },
-  "title": { "first": "Unlimited Skills", "second": "for Super Projects." },
+  "title": { "first": "Habilidades ilimitadas", "second": "para Súper Proyectos." },
   "content": {
-    "first": "Branding is no longer simply about visual appeal (or the cherry in the apple pie example, as given in my earlier article).",
-    "second": "We develop creative solutions for small and big brands alike, build authentic product identities and much more."
+    "first": "La marca ya no se trata simplemente del atractivo visual (o el ejemplo de la cereza en el pastel de manzana, como se mencionó en mi artículo anterior).",
+    "second": "Desarrollamos soluciones creativas para marcas pequeñas y grandes por igual, construimos identidades de productos auténticas y mucho más."
   },
-  "smallTitle": "About Us"
+  "smallTitle": "Sobre nosostros"
 }

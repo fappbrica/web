@@ -38,10 +38,7 @@ const Contact = () => {
       <div className="main-content">
         <ContactForm />
         <div className="map" id="ieatmaps">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6010.126439563913!2d-100.75478744312291!3d41.13314584948978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2z2KfZhNmI2YTYp9mK2KfYqiDYp9mE2YXYqtit2K_YqQ!5e0!3m2!1sar!2seg!4v1644259110384!5m2!1sar!2seg"
-            loading="lazy"
-          ></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6800.957024055206!2d-68.5243086!3d-31.5384799!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816a9d50ae2c2d%3A0x5a972f530f27ce2e!2sGral.%20Mariano%20Acha%20Sur%20356%2C%20J5402EGG%20San%20Juan!5e0!3m2!1ses-419!2sar!4v1656007436429!5m2!1ses-419!2sar" loading="lazy"></iframe>
         </div>
         <Footer hideBGCOLOR />
       </div>

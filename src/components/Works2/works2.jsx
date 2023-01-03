@@ -33,10 +33,10 @@ const Works2 = ({ sliderRef }) => {
             <div className="col-lg-8 col-md-10">
               <div className="sec-head  text-center">
                 <h6 className="wow fadeIn" data-wow-delay=".5s">
-                  Latest Work
+                  Últimos trabajos
                 </h6>
                 <h3 className="wow color-font">
-                  Our Recent Web Design &amp; <br /> Some Past Projects.
+                  Nuestro diseño web reciente y<br /> algunos proyectos pasados.
                 </h3>
               </div>
             </div>
@@ -109,14 +109,14 @@ const Works2 = ({ sliderRef }) => {
                               <Link
                                 href={`/works2/works2-dark`}
                               >
-                                <a>art &amp; illustration</a>
+                                <a>arte e ilustración</a>
                               </Link>
                             </h6>
                             <h4>
                               <Link
                                 href={`/project-details2/project-details2-dark`}
                               >
-                                <a>Innovation and Crafts.</a>
+                                <a>Innovación y Artesanía.</a>
                               </Link>
                             </h4>
                           </div>
@@ -138,14 +138,14 @@ const Works2 = ({ sliderRef }) => {
                               <Link
                                 href={`/works2/works2-dark`}
                               >
-                                <a>art &amp; illustration</a>
+                                <a>arte e ilustración</a>
                               </Link>
                             </h6>
                             <h4>
                               <Link
                                 href={`/project-details2/project-details2-dark`}
                               >
-                                <a>Inspiring new space.</a>
+                                <a>Nuevo espacio inspirador.</a>
                               </Link>
                             </h4>
                           </div>
@@ -167,14 +167,14 @@ const Works2 = ({ sliderRef }) => {
                               <Link
                                 href={`/works2/works2-dark`}
                               >
-                                <a>art &amp; illustration</a>
+                                <a>arte e ilustración</a>
                               </Link>
                             </h6>
                             <h4>
                               <Link
                                 href={`/project-details2/project-details2-dark`}
                               >
-                                <a>Natural plus modern.</a>
+                                <a>Natural más moderno.</a>
                               </Link>
                             </h4>
                           </div>
@@ -196,14 +196,14 @@ const Works2 = ({ sliderRef }) => {
                               <Link
                                 href={`/works2/works2-dark`}
                               >
-                                <a>art &amp; illustration</a>
+                                <a>arte e ilustración</a>
                               </Link>
                             </h6>
                             <h4>
                               <Link
                                 href={`/project-details2/project-details2-dark`}
                               >
-                                <a>Innovation and Crafts.</a>
+                                <a>Innovación y Artesanía.</a>
                               </Link>
                             </h4>
                           </div>
@@ -225,14 +225,14 @@ const Works2 = ({ sliderRef }) => {
                               <Link
                                 href={`/works2/works2-dark`}
                               >
-                                <a>art &amp; illustration</a>
+                                <a>arte e ilustración</a>
                               </Link>
                             </h6>
                             <h4>
                               <Link
                                 href={`/project-details2/project-details2-dark`}
                               >
-                                <a>Inspiring new space.</a>
+                                <a>Nuevo espacio inspirador.</a>
                               </Link>
                             </h4>
                           </div>

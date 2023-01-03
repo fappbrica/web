@@ -1,35 +1,35 @@
 [
     {
         "id": 1,
-        "title": "How to use solid color combine with simple furnitures.",
-        "content": "My job is simple and sophisticated, so it is possible to describe and simple, and flowery language. I love the feel and sophistication of its superiority. I like people with a keen mind and at the same time easy to talk to. These qualities can be combined perfectly natural. However, things like people look miserable, if these properties are connected.",
+        "title": "Cómo combinar colores sólidos con muebles.",
+        "content": "Mi trabajo es simple y sofisticado, por lo que es posible describirlo con un lenguaje simple y florido. Me encanta la sensación y la sofisticación.",
         "image": "/img/blog/l1.jpg",
         "tags": ["WordPress", "Themeforest", "Vie"],
         "date": {
             "day": "07",
-            "month": "August"
+            "month": "Agosto"
         }
     },
     {
         "id": 2,
-        "title": "Build a Beautiful Blog With Ease",
-        "content": "My job is simple and sophisticated, so it is possible to describe and simple, and flowery language. I love the feel and sophistication of its superiority. I like people with a keen mind and at the same time easy to talk to. These qualities can be combined perfectly natural. However, things like people look miserable, if these properties are connected.",
+        "title": "Cree un hermoso blog con facilidad",
+        "content": "Mi trabajo es simple y sofisticado, por lo que es posible describirlo con un lenguaje simple y florido. Me encanta la sensación y la sofisticación de su superioridad. Me gusta la gente de mente aguda y al mismo tiempo fácil de hablar. Estas cualidades se pueden combinar perfectamente naturales. Sin embargo, cosas como las personas se ven miserables si estas propiedades están conectadas.",
         "image": "/img/blog/l2.jpg",
         "tags": ["WordPress"],
         "date": {
             "day": "07",
-            "month": "August"
+            "month": "Agosto"
         }
     },
     {
         "id": 3,
-        "title": "Build a Beautiful Blog With Ease",
-        "content": "My job is simple and sophisticated, so it is possible to describe and simple, and flowery language. I love the feel and sophistication of its superiority. I like people with a keen mind and at the same time easy to talk to. These qualities can be combined perfectly natural. However, things like people look miserable, if these properties are connected.",
+        "title": "Cree un hermoso blog con facilidad",
+        "content": "Mi trabajo es simple y sofisticado, por lo que es posible describirlo con un lenguaje simple y florido. Me encanta la sensación y la sofisticación de su superioridad. Me gusta la gente de mente aguda y al mismo tiempo fácil de hablar. Estas cualidades se pueden combinar perfectamente naturales. Sin embargo, cosas como las personas se ven miserables si estas propiedades están conectadas.",
         "image": "/img/blog/l3.jpg",
         "tags": ["WordPress", "Themeforest", "Vie"],
         "date": {
             "day": "07",
-            "month": "August"
+            "month": "Agosto"
         }
     } 
 ]

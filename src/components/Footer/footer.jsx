@@ -11,7 +11,7 @@ const Footer = ({ hideBGCOLOR }) => {
           <div className="col-lg-4">
             <div className="item md-mb50">
               <div className="title">
-                <h5>Contact Us</h5>
+                <h5>Contáctanos: </h5>
               </div>
               <ul>
                 <li>
@@ -31,8 +31,8 @@ const Footer = ({ hideBGCOLOR }) => {
                 <li>
                   <span className="icon pe-7s-call"></span>
                   <div className="cont">
-                    <h6>Call Us</h6>
-                    <p>+54112644035669</p>
+                    <h6>Llámenos</h6>
+                    <p>+54 2644035669</p>
                   </div>
                 </li>
               </ul>
@@ -41,7 +41,7 @@ const Footer = ({ hideBGCOLOR }) => {
           <div className="col-lg-4">
             <div className="item md-mb50">
               <div className="title">
-                <h5>Recent News</h5>
+                <h5>Noticias recientes</h5>
               </div>
               <ul>
                 <li>
@@ -56,8 +56,8 @@ const Footer = ({ hideBGCOLOR }) => {
                     <Link href="/blog-details/blog-details-dark">
                       <a>
                         <p>
-                          The Start-Up Ultimate Guide to Make Your WordPress
-                          Journal.
+                          La guía definitiva de puesta en marcha para hacer su
+                          diario de WordPress.
                         </p>
                       </a>
                     </Link>
@@ -80,8 +80,8 @@ const Footer = ({ hideBGCOLOR }) => {
                     <Link href="/blog-details/blog-details-dark">
                       <a>
                         <p>
-                          The Start-Up Ultimate Guide to Make Your WordPress
-                          Journal.
+                          La guía definitiva de puesta en marcha para hacer su
+                          diario de WordPress.
                         </p>
                       </a>
                     </Link>
@@ -94,7 +94,10 @@ const Footer = ({ hideBGCOLOR }) => {
                 </li>
                 <li>
                   <div className="subscribe">
-                    <input type="text" placeholder="Type Your Email" />
+                    <input
+                      type="text"
+                      placeholder="Escriba su correo electrónico"
+                    />
                     <span className="subs pe-7s-paper-plane"></span>
                   </div>
                 </li>
@@ -121,13 +124,7 @@ const Footer = ({ hideBGCOLOR }) => {
                 </a>
               </div>
               <div className="copy-right">
-                <p>
-                  © 2022, Made with passion by
-                  <Link href="https://themeforest.net/user/themescamp/portfolio">
-                    <a target="_blank">Angel Matias Torres</a>
-                  </Link>
-                  .
-                </p>
+                <p>© 2022, This site is owned and operated by Matias Torres.</p>
               </div>
             </div>
           </div>

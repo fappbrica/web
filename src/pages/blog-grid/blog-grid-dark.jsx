@@ -36,8 +36,8 @@ const BlogGridDark = () => {
       </div>
       <Navbar nr={navbarRef} lr={logoRef} />
       <PageHeader
-        title="Our News."
-        paragraph="All the most current news and events of our creative team."
+        title="Nuestras noticias."
+        paragraph="Todas las noticias y eventos más actuales de nuestro equipo creativo."
       />
       <BlogGrid blogs={blog3Data} />
       <Footer />

@@ -1,19 +1,19 @@
 [
     {
         "id": 1,
-        "title": "Original Solutions",
-        "content": "If you need to redesign your new project, new visual strategy, ux structure or you do have some cool ideas for collaboration.",
+        "title": "Soluciones originales",
+        "content": "Si necesitas rediseñar tu nuevo proyecto, una nueva estrategia visual, una estructura ux o tienes algunas ideas geniales para colaborar.",
         "image": "/img/slid/02.jpg"
     },
     {
         "id": 2,
-        "title": "Digital Design Awards",
-        "content": "If you need to redesign your new project, new visual strategy, ux structure or you do have some cool ideas for collaboration.",
+        "title": "Premios al diseño digital",
+        "content": "Si necesitas rediseñar tu nuevo proyecto, una nueva estrategia visual, una estructura ux o tienes algunas ideas geniales para colaborar.",
         "image": "/img/slid/03.jpg"
     },
     {
         "id": 3,
-        "title": "Business value through digital products",
+        "title": "Valor empresarial a través de los productos digitales.",
         "content": "",
         "image": "/img/slid/01.jpg"
     }

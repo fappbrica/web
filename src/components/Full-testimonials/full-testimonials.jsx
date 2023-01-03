@@ -51,10 +51,10 @@ class FullTestimonials extends React.Component {
               <div className="col-lg-8 col-md-10">
                 <div className="sec-head  text-center">
                   <h6 className="wow fadeIn" data-wow-delay=".5s">
-                    Testimonials
+                  Testimonios
                   </h6>
                   <h3 className="wow color-font">
-                    We love our clients from all over the world.
+                  Queremos a nuestros clientes de todo el mundo.
                   </h3>
                 </div>
               </div>
@@ -119,8 +119,8 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p>
-                    I would highly recommend Vie Digital. I worked with the team
-                    on an animation for our ‘Click &amp; Collect’ service.
+                  Recomiendo encarecidamente Vie Digital. trabajé con el equipo
+                  en una animación para nuestro ‘Click &amp; Collect’ servicio.
                   </p>
                 </div>
                 <div className="item">
@@ -140,8 +140,8 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p>
-                    I would highly recommend Vie Digital. I worked with the team
-                    on an animation for our ‘Click &amp; Collect’ service.
+                    Recomiendo encarecidamente Vie Digital. trabajé con el equipo
+                    en una animación para nuestro ‘Click &amp; Collect’ servicio.
                   </p>
                 </div>
                 <div className="item">
@@ -161,8 +161,8 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p>
-                    I would highly recommend Vie Digital. I worked with the team
-                    on an animation for our ‘Click &amp; Collect’ service.
+                    Recomiendo encarecidamente Vie Digital. trabajé con el equipo
+                    en una animación para nuestro ‘Click &amp; Collect’ servicio.
                   </p>
                 </div>
                 <div className="item">
@@ -182,8 +182,8 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p>
-                    I would highly recommend Vie Digital. I worked with the team
-                    on an animation for our ‘Click &amp; Collect’ service.
+                    Recomiendo encarecidamente Vie Digital. trabajé con el equipo
+                    en una animación para nuestro ‘Click &amp; Collect’ servicio.
                   </p>
                 </div>
               </Slider>

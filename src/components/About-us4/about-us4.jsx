@@ -15,9 +15,9 @@ const AboutUs4 = () => {
             </div>
             <div className="col-lg-4 valign">
               <div className="cont full-width">
-                <h3 className="color-font">Huge collection.</h3>
+                <h3 className="color-font">Mejores características</h3>
                 <h6>
-                  Innovative solutions <br /> to boost your creative projects.
+                Soluciones innovadoras<br /> para impulsar sus proyectos creativos.
                 </h6>
                 {typeof window !== "undefined" && (
                   <ModalVideo
@@ -46,14 +46,14 @@ const AboutUs4 = () => {
                     </a>
                   </div>
                   <div className="valign">
-                    <span className="text">Watch Video</span>
+                    <span className="text">Ver vídeo</span>
                   </div>
                 </div>
                 <div className="states">
                   <h2 className="color-font fw-700">
                     125 <span className="fz-30">k</span>
                   </h2>
-                  <p>Projects completed around the world</p>
+                  <p>Proyectos realizados en todo el mundo</p>
                 </div>
               </div>
             </div>

@@ -18,17 +18,16 @@ const Team = () => {
           <div className="col-lg-5 valign">
             <div className="content wow fadeInUp md-mb30" data-wow-delay=".5s">
               <div className="sub-title">
-                <h6>Our Staff</h6>
+                <h6>Nuestro equipo</h6>
                 <span></span>
                 <span></span>
                 <span></span>
               </div>
               <h3 className="co-tit mb-15">
-                We help to create visual strategies.
+                Ayudamos a crear estrategias visuales
               </h3>
               <p>
-                We are Vie. We create award-winning websites, remarkable brands
-                and cutting-edge apps.Nullam imperdie.
+                Somos Vie. Creamos sitios web galardonados, marcas notables y aplicaciones de vanguardia. Nullam imperdie.
               </p>
               <div className="skills-box mt-40">
                 {teamsDate.skills.map((skill) => (

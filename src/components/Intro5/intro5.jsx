@@ -95,7 +95,7 @@ const Intro5 = () => {
                         <div className="explore">
                           <Link href="/project-details2/project-details2-dark"> 
                           <a >
-                            Explore Project
+                          Explorar el proyecto
                             <i className="ion-chevron-right"></i>
                           </a>
                           </Link>

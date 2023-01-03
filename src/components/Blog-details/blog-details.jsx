@@ -31,67 +31,44 @@ const BlogDetails = ({ theme }) => {
                   <div className="col-lg-10">
                     <div className="cont">
                       <h4 className="extra-title">
-                        Priorities that will pop up in any particular month.
+                      Prioridades que aparecerán en cualquier mes en particular.
                       </h4>
                       <div className="spacial">
                         <p>
-                          Never ever think of giving up. Winners never quit and
-                          quitters never win. Take all negative words out of
-                          your mental dictionary and focus on the solutions with
-                          utmost conviction and patience. The battle is never
-                          lost until you’ve abandon your vision.
+                        Nunca jamás pienses en rendirte. Ganadores nunca se rinden y los que se rinden nunca ganan. Saca todas las palabras negativas de tu diccionario mental y concéntrate en las soluciones con la mayor convicción y paciencia. La batalla nunca se pierde hasta que abandonas tu visión.
                         </p>
                       </div>
                       <p>
-                        the main component of a healthy environment for self
-                        esteem is that it needs be nurturing. The main compont
-                        of a healthy environment for self esteem is that it
-                        needs be nurturing. The main component of a healthy env
-                        for self esteem The main compont be nurturing It should
-                        provide unconditional warmth. The main component of a
-                        healthy env for self esteem The main compont be
-                        nurturing It should provide unconditional
+                      el componente principal de un entorno saludable para la autoestima es que necesita ser nutritivo. El componente principal de un entorno saludable para la autoestima es que necesita ser nutritivo. El componente principal de un entorno saludable para la autoestima El componente principal debe ser nutritivo Debe brindar calidez incondicional. El componente principal de un entorno saludable para la autoestima El componente principal debe ser nutritivo Debe proporcionar incondicional
                       </p>
 
-                      <h6>- We all intend to plan ahead.</h6>
+                      <h6>- Todos tenemos la intención de planificar el futuro.</h6>
 
                       <p>
-                        We all intend to plan ahead, but too often let the
-                        day-to-day minutia get in the way of making a calendar
-                        for the year. Sure, you can’t know every detail to
-                        anticipate. Heck, you can’t know half the priorities
-                        that will pop up in any particular month. But you can
-                        plan for big picture seasonality, busy-times, and
-                        events.
+                      Todos tenemos la intención de planificar con anticipación, pero con demasiada frecuencia dejamos que las minucias del día a día se interpongan en la elaboración de un calendario para el año. Claro, no se puede saber cada detalle para anticipar. Diablos, no puedes saber la mitad de las prioridades que aparecerán en un mes en particular. Pero puede planificar la estacionalidad general, las horas punta y los eventos.
                       </p>
 
                       <ul>
                         <li>
-                          <span>01</span> Integer in volutpat libero.
+                          <span>01</span> Entero en volutpat libero.
                         </li>
                         <li>
-                          <span>02</span> Vivamus maximus ultricies pulvinar.
+                          <span>02</span> Vivamus entero en volutpat libero
                         </li>
                         <li>
-                          <span>03</span> priorities that will pop up in any
-                          particular month.
+                          <span>03</span> prioridades que aparecerán en cualquier mes en particular.
                         </li>
                         <li>
-                          <span>04</span> We all intend to plan ahead.
+                          <span>04</span> Todos tenemos la intención de planificar con anticipación.
                         </li>
                         <li>
-                          <span>05</span> The main component of a healthy env
-                          for self esteem.
+                          <span>05</span> El componente principal de un entorno saludable para la autoestima.
                         </li>
                       </ul>
 
                       <div className="quotes text-center">
                         <p>
-                          Never ever think of giving up. Winners never quit and
-                          quitters never win. Take all negative words out of
-                          your mental dictionary and focus on the solutions with
-                          utmost conviction and patience. The battle is never
-                          lost until you’ve abandon your vision.
+                          Nunca jamás pienses en rendirte. Ganadores nunca se rinden y los que se rinden nunca ganan. Saca todas las palabras negativas de tu diccionario mental y concéntrate en las soluciones con la mayor convicción y paciencia. La batalla nunca se pierde hasta que abandonas tu visión.
                         </p>
                       </div>
                       <div className="row">
@@ -107,13 +84,7 @@ const BlogDetails = ({ theme }) => {
                         </div>
                       </div>
                       <p>
-                        We all intend to plan ahead, but too often let the
-                        day-to-day minutia get in the way of making a calendar
-                        for the year. Sure, you can’t know every detail to
-                        anticipate. Heck, you can’t know half the priorities
-                        that will pop up in any particular month. But you can
-                        plan for big picture seasonality, busy-times, and
-                        events.
+                        Todos tenemos la intención de planificar con anticipación, pero con demasiada frecuencia dejamos que las minucias del día a día se interpongan en la elaboración de un calendario para el año. Claro, no se puede saber cada detalle para anticipar. Diablos, no puedes saber la mitad de las prioridades que aparecerán en un mes en particular. Pero puede planificar la estacionalidad general, las horas punta y los eventos.
                       </p>
                       <div className="share-info">
                         <div className="social">
@@ -128,8 +99,8 @@ const BlogDetails = ({ theme }) => {
                           </a>
                         </div>
                         <div className="tags">
-                          <a href="#0">Web</a>,<a href="#0">Themeforest</a>,
-                          <a href="#0">ThemesCamp</a>
+                          <a href="#0">Web</a>,<a href="#0">Bosque temático</a>,
+                          <a href="#0">Temas Componentes</a>
                         </div>
                       </div>
                     </div>
@@ -142,9 +113,7 @@ const BlogDetails = ({ theme }) => {
                           <span>author :</span> Jorden Griffin
                         </h6>
                         <p>
-                          the main component of a healthy environment for self
-                          esteem is that it needs be nurturing. The main compont
-                          of a healthy environment.
+                          el componente principal de un entorno saludable para la autoestima es que necesita ser nutritivo. El componente principal de un ambiente saludable.
                         </p>
                         <div className="social">
                           <a href="#0">
@@ -165,7 +134,7 @@ const BlogDetails = ({ theme }) => {
 
               <div className="pagination">
                 <span>
-                  <a href="#0">Prev Post</a>
+                  <a href="#0">Publicación anterior</a>
                 </span>
                 <span className="icon">
                   <Link href={`/blog/blog-dark`}>
@@ -175,12 +144,12 @@ const BlogDetails = ({ theme }) => {
                   </Link>
                 </span>
                 <span className="text-right">
-                  <a href="#0">Next Post</a>
+                  <a href="#0">Publicación siguiente</a>
                 </span>
               </div>
 
               <div className="comments-area">
-                <h5>Comments :</h5>
+                <h5>Comentarios: </h5>
                 <div className="item">
                   <div className="comment-img">
                     <img src="/img/blog/01.jpg" alt="" />
@@ -197,13 +166,11 @@ const BlogDetails = ({ theme }) => {
                         offset={-150}
                         duration={500}
                       >
-                        Replay <i className="fas fa-reply"></i>
+                        Repetición <i className="fas fa-reply"></i>
                       </ScrollLink>
                     </span>
                     <p>
-                      the main component of a healthy environment for self
-                      esteem is that it needs be nurturing. The main compont of
-                      a healthy environment.
+                      el componente principal de un entorno saludable para la autoestima es que necesita ser nutritivo. El componente principal de un ambiente saludable.
                     </p>
                   </div>
                 </div>
@@ -223,13 +190,11 @@ const BlogDetails = ({ theme }) => {
                         offset={-150}
                         duration={500}
                       >
-                        Replay <i className="fas fa-reply"></i>
+                        Repetición <i className="fas fa-reply"></i>
                       </ScrollLink>
                     </span>
                     <p>
-                      the main component of a healthy environment for self
-                      esteem is that it needs be nurturing. The main compont of
-                      a healthy environment.
+                      el componente principal de un entorno saludable para la autoestima es que necesita ser nutritivo. El componente principal de un ambiente saludable.
                     </p>
                   </div>
                 </div>
@@ -249,20 +214,18 @@ const BlogDetails = ({ theme }) => {
                         offset={-150}
                         duration={500}
                       >
-                        Replay <i className="fas fa-reply"></i>
+                        Repetición <i className="fas fa-reply"></i>
                       </ScrollLink>
                     </span>
                     <p>
-                      the main component of a healthy environment for self
-                      esteem is that it needs be nurturing. The main compont of
-                      a healthy environment.
+                      el componente principal de un entorno saludable para la autoestima es que necesita ser nutritivo. El componente principal de un ambiente saludable.
                     </p>
                   </div>
                 </div>
               </div>
 
               <div className="comment-form" id="comment-form">
-                <h5>Add Comment :</h5>
+                <h5>Agregar comentario :</h5>
                 <div className="form">
                   <Formik
                     initialValues={{
@@ -286,7 +249,7 @@ const BlogDetails = ({ theme }) => {
                             <div className="form-group">
                               <Field
                                 as="textarea"
-                                placeholder="Your Comment"
+                                placeholder="Escriba su comentario"
                                 name="comment"
                               />
                             </div>
@@ -295,7 +258,7 @@ const BlogDetails = ({ theme }) => {
                             <div className="form-group">
                               <Field
                                 type="text"
-                                placeholder="Your Name"
+                                placeholder="Escriba su nombre"
                                 name="name"
                               />
                             </div>
@@ -305,7 +268,7 @@ const BlogDetails = ({ theme }) => {
                               <Field
                                 type="email"
                                 validate={validateEmail}
-                                placeholder="Your Email"
+                                placeholder="Escriba su correo electrónico"
                                 name="email"
                               />
                               {errors.email && touched.email && (
@@ -325,7 +288,7 @@ const BlogDetails = ({ theme }) => {
                                     : "light"
                                 } curve full-width`}
                               >
-                                Comment
+                                Comentar
                               </button>
                             </div>
                           </div>

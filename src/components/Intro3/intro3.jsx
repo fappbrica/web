@@ -1,5 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
-import React from "react";
+import React from 'react';
 
 const Intro3 = () => {
   return (
@@ -14,12 +14,13 @@ const Intro3 = () => {
           <div className="col-lg-7 valign">
             <div className="cont">
               <div className="sub-title mb-5">
-                <h6>Digital Consulting Agency</h6>
+                <h6>Agencia de consultoría digital</h6>
               </div>
-              <h1 className="mb-10 fw-600">Unique Business Consulting.</h1>
+              <h1 className="mb-10 fw-600">Consultoría empresarial única.</h1>
               <p>
-                We help our clients succeed by creating brand identities,
-                <br /> digital experiences, and print materials.
+                Ayudamos a nuestros clientes a tener éxito mediante la creación
+                de identidades de marca, experiencias digitales y materiales
+                impresos.
               </p>
               <ul>
                 <li>
@@ -29,10 +30,10 @@ const Intro3 = () => {
                     </span>
                   </div>
                   <div className="cont">
-                    <h6>Branding</h6>
+                    <h6>Marca</h6>
                     <p>
-                      It is a long established fact that a reader will be
-                      distracted.
+                      Es un hecho establecido desde hace tiempo que un lector se
+                      distraído.
                     </p>
                   </div>
                 </li>
@@ -45,8 +46,8 @@ const Intro3 = () => {
                   <div className="cont">
                     <h6>Marketing</h6>
                     <p>
-                      It is a long established fact that a reader will be
-                      distracted.
+                      Es un hecho establecido desde hace tiempo que un lector se
+                      distraído.
                     </p>
                   </div>
                 </li>

@@ -52,38 +52,38 @@ const Navbar = ({ lr, nr, theme }) => {
                 aria-haspopup="true"
                 aria-expanded="false"
               >
-                Home
+                Inicio
               </span>
               <div className="dropdown-menu">
                 <Link href={`/homepage/home1-dark`}>
-                  <a className="dropdown-item">Main Home</a>
+                  <a className="dropdown-item">Página principal</a>
                 </Link>
                 <Link href={`/homepage/home2-dark`}>
-                  <a className="dropdown-item">Creative Agency</a>
+                  <a className="dropdown-item">Agencia creativa</a>
                 </Link>
                 <Link href={`/homepage/home5-dark`}>
-                  <a className="dropdown-item">Digital Agency</a>
+                  <a className="dropdown-item">Agencia digital</a>
                 </Link>
                 <Link href={`/homepage/home4-dark`}>
-                  <a className="dropdown-item">Business One Page</a>
+                  <a className="dropdown-item">Seccion de negocios</a>
                 </Link>
                 <Link href={`/homepage/home3-dark`}>
-                  <a className="dropdown-item">Corporate Business</a>
+                  <a className="dropdown-item">Empresas</a>
                 </Link>
                 <Link href={`/homepage/home6-dark`}>
-                  <a className="dropdown-item">Modern Agency</a>
+                  <a className="dropdown-item">Agencia moderna</a>
                 </Link>
                 <Link href={`/homepage/home7-dark`}>
                   <a className="dropdown-item">Freelancer</a>
                 </Link>
                 <Link href={`/homepage/home8-dark`}>
-                  <a className="dropdown-item">Architecture</a>
+                  <a className="dropdown-item">Arquitectura</a>
                 </Link>
               </div>
             </li>
             <li className="nav-item">
               <Link href={`/about/about-dark`}>
-                <a className="nav-link">About</a>
+                <a className="nav-link">Somos</a>
               </Link>
             </li>
             <li className="nav-item dropdown" onClick={handleDropdown}>
@@ -94,26 +94,26 @@ const Navbar = ({ lr, nr, theme }) => {
                 aria-haspopup="true"
                 aria-expanded="false"
               >
-                Works
+                Obras
               </span>
               <div className="dropdown-menu">
                 <Link href={`/showcase/showcase-dark`}>
-                  <a className="dropdown-item">Showcase Parallax</a>
+                  <a className="dropdown-item">Carrasuel</a>
                 </Link>
                 <Link href={`/showcase4/showcase4-dark`}>
-                  <a className="dropdown-item">Showcase Carousel</a>
+                  <a className="dropdown-item">Carousel 2</a>
                 </Link>
                 <Link href={`/showcase3/showcase3-dark`}>
-                  <a className="dropdown-item">Showcase Circle</a>
+                  <a className="dropdown-item">Circle</a>
                 </Link>
                 <Link href={`/works/works-dark`}>
-                  <a className="dropdown-item">Portfolio Masonry</a>
+                  <a className="dropdown-item">Portfolio de Trabajo</a>
                 </Link>
                 <Link href={`/works2/works2-dark`}>
-                  <a className="dropdown-item">Portfolio Filtering</a>
+                  <a className="dropdown-item">Portfolio Filtrado</a>
                 </Link>
                 <Link href={`/works3/works3-dark`}>
-                  <a className="dropdown-item">Portfolio Gallery</a>
+                  <a className="dropdown-item">Portfolio Galeria</a>
                 </Link>
               </div>
             </li>
@@ -129,22 +129,22 @@ const Navbar = ({ lr, nr, theme }) => {
               </span>
               <div className="dropdown-menu">
                 <Link href={`/blog/blog-dark`}>
-                  <a className="dropdown-item">Blog Standerd</a>
+                  <a className="dropdown-item">Blog Estándar</a>
                 </Link>
                 <Link href={`/blog-list/blog-list-dark`}>
-                  <a className="dropdown-item">Blog List</a>
+                  <a className="dropdown-item">Blog Lista</a>
                 </Link>
                 <Link href={`/blog-grid/blog-grid-dark`}>
                   <a className="dropdown-item">Blog Grid</a>
                 </Link>
                 <Link href={`/blog-details/blog-details-dark`}>
-                  <a className="dropdown-item">Blog Details</a>
+                  <a className="dropdown-item">Blog Detalles</a>
                 </Link>
               </div>
             </li>
             <li className="nav-item">
               <Link href={`/contact/contact-dark`}>
-                <a className="nav-link">Contact</a>
+                <a className="nav-link">Contacto</a>
               </Link>
             </li>
           </ul>

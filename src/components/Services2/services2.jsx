@@ -9,10 +9,10 @@ const Services2 = () => {
           <div className="col-lg-8 col-md-10">
             <div className="sec-head  text-center">
               <h6 className="wow fadeIn" data-wow-delay=".5s">
-                Best Features
+                Mejores características
               </h6>
               <h3 className="wow color-font">
-                We are a new digital product development agency
+              Somos una nueva agencia de desarrollo de productos digitales
               </h3>
             </div>
           </div>
@@ -23,8 +23,7 @@ const Services2 = () => {
               <span className="icon pe-7s-gleam"></span>
               <h6>Digital Marketing</h6>
               <p>
-                Tempore corrupti temporibus fuga earum asperiores fugit
-                laudantium.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, consequatur asperiores consectetur exercitationem.
               </p>
             </div>
           </div>
@@ -33,25 +32,23 @@ const Services2 = () => {
               <span className="icon pe-7s-phone"></span>
               <h6>Web &amp; App Development</h6>
               <p>
-                Tempore corrupti temporibus fuga earum asperiores fugit
-                laudantium.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor modi impedit corporis, magnam sed animi vel odit repellendus!
               </p>
             </div>
           </div>
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".9s">
             <div className="step-item xbottom">
               <span className="icon pe-7s-magic-wand"></span>
-              <h6>Graphic Design</h6>
+              <h6>Diseño gráfico</h6>
               <p>
-                Tempore corrupti temporibus fuga earum asperiores fugit
-                laudantium.
+                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet voluptatum laudantium ex necessitatibus.
               </p>
             </div>
           </div>
         </div>
         <div className="smore">
           <Link href="/about/about-dark">
-            <a>Discover More</a>
+            <a>Descubrir más</a>
           </Link>
           <i className="fas fa-long-arrow-alt-right"></i>
         </div>

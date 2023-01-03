@@ -8,10 +8,10 @@ const PricePackages2 = () => {
           <div className="col-lg-8 col-md-10">
             <div className="s-head text-center mb-80">
               <h6 className="stit mb-30">
-                <span className="left"></span> Pricing Package
+                <span className="left"></span> Paquete de precios
                 <span className="right"></span>
               </h6>
-              <h2>Popular Pricing Package for Design Mobile Application </h2>
+              <h2>Paquete de precios populares para el diseño de aplicaciones móviles.</h2>
             </div>
           </div>
         </div>
@@ -20,7 +20,7 @@ const PricePackages2 = () => {
             <div className="col-lg-4">
               <div className="item sm-padding md-mb50">
                 <div className="type text-center mb-15">
-                  <h5>Free Package</h5>
+                  <h5>Paquete gratuito</h5>
                 </div>
                 <div className="amount text-center mb-40">
                   <h3>
@@ -29,7 +29,7 @@ const PricePackages2 = () => {
                 </div>
                 <div className="order mb-40">
                   <a href="#0" className="butn-gray rounded buton">
-                    <span>Get Free 7 Days Trial</span>
+                    <span>Obtenga 7 días de prueba gratis</span>
                   </a>
                 </div>
                 <div className="feat">
@@ -43,7 +43,7 @@ const PricePackages2 = () => {
                           <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                         </svg>
                       </i>
-                      Design &amp; Development
+                      Diseño y Desarrollo únicos
                     </li>
 
                     <li>
@@ -55,7 +55,7 @@ const PricePackages2 = () => {
                           <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                         </svg>
                       </i>
-                      Clean Code &amp; Easy
+                      Código limpio y fácil de editar
                     </li>
 
                     <li>
@@ -67,7 +67,7 @@ const PricePackages2 = () => {
                           <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                         </svg>
                       </i>
-                      Modern UI Design
+                      Diseño moderno UI 
                     </li>
 
                     <li className="disbl">
@@ -91,7 +91,7 @@ const PricePackages2 = () => {
                           <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                         </svg>
                       </i>
-                      24/7 Hour Support
+                      24/7 Horas de Soporte
                     </li>
 
                     <li className="disbl">
@@ -103,7 +103,7 @@ const PricePackages2 = () => {
                           <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                         </svg>
                       </i>
-                      Upload Modern Design
+                      Subir un diseño moderno
                     </li>
                   </ul>
                 </div>
@@ -112,7 +112,7 @@ const PricePackages2 = () => {
             <div className="col-lg-4">
               <div className="item active sm-padding md-mb50">
                 <div className="type text-center mb-15">
-                  <h5>Premium Package</h5>
+                  <h5>Paquete Premium</h5>
                 </div>
                 <div className="amount text-center mb-40">
                   <h3>
@@ -121,7 +121,7 @@ const PricePackages2 = () => {
                 </div>
                 <div className="order mb-40">
                   <a href="#0" className="butn-gr rounded buton">
-                    <span>Choose Package</span>
+                    <span>Seleccione el paquete</span>
                   </a>
                 </div>
                 <div className="feat">
@@ -135,7 +135,7 @@ const PricePackages2 = () => {
                           <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                         </svg>
                       </i>
-                      Design &amp; Development
+                      Diseño y desarrollo
                     </li>
 
                     <li>
@@ -147,7 +147,7 @@ const PricePackages2 = () => {
                           <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                         </svg>
                       </i>
-                      Clean Code &amp; Easy
+                      Código limpio y fácil
                     </li>
 
                     <li>
@@ -159,7 +159,7 @@ const PricePackages2 = () => {
                           <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                         </svg>
                       </i>
-                      Modern UI Design
+                      Diseño Moderno UI 
                     </li>
 
                     <li>
@@ -183,7 +183,7 @@ const PricePackages2 = () => {
                           <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                         </svg>
                       </i>
-                      24/7 Hour Support
+                      24/7 Horas de soporte
                     </li>
 
                     <li className="disbl">
@@ -195,7 +195,7 @@ const PricePackages2 = () => {
                           <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                         </svg>
                       </i>
-                      Upload Modern Design
+                      Subir un diseño moderno
                     </li>
                   </ul>
                 </div>
@@ -204,7 +204,7 @@ const PricePackages2 = () => {
             <div className="col-lg-4">
               <div className="item sm-padding">
                 <div className="type text-center mb-15">
-                  <h5>Golden Package</h5>
+                  <h5>Paquete dorado</h5>
                 </div>
                 <div className="amount text-center mb-40">
                   <h3>
@@ -213,7 +213,7 @@ const PricePackages2 = () => {
                 </div>
                 <div className="order mb-40">
                   <a href="#0" className="butn-gray rounded buton">
-                    <span>Choose Package</span>
+                    <span>Elija el paquete</span>
                   </a>
                 </div>
                 <div className="feat">
@@ -227,7 +227,7 @@ const PricePackages2 = () => {
                           <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                         </svg>
                       </i>
-                      Design &amp; Development
+                      Diseño y desarrollo
                     </li>
 
                     <li>
@@ -239,7 +239,7 @@ const PricePackages2 = () => {
                           <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                         </svg>
                       </i>
-                      Clean Code &amp; Easy
+                      Código limpio y fácil
                     </li>
 
                     <li>
@@ -251,7 +251,7 @@ const PricePackages2 = () => {
                           <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                         </svg>
                       </i>
-                      Modern UI Design
+                      Diseño Moderno UI
                     </li>
 
                     <li>
@@ -275,7 +275,7 @@ const PricePackages2 = () => {
                           <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                         </svg>
                       </i>
-                      24/7 Hour Support
+                      24/7 Horas de Soporte
                     </li>
 
                     <li>
@@ -287,7 +287,7 @@ const PricePackages2 = () => {
                           <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                         </svg>
                       </i>
-                      Upload Modern Design
+                      Subir un archivo moderno
                     </li>
                   </ul>
                 </div>

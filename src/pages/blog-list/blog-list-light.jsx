@@ -37,8 +37,8 @@ const BlogListLight = () => {
       <Navbar nr={navbarRef} lr={logoRef} theme="themeL" />
       <PageHeader
         className="sub-bg"
-        title="Our News."
-        paragraph="All the most current news and events of our creative team."
+        title="Nuestras Noticias"
+        paragraph="Todas las noticias y eventos más actuales de nuestro equipo creativo."
       />
       <BlogListed blogs={blog2Data} />
       <Footer />

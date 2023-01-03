@@ -58,7 +58,7 @@ const NavbarFullMenu = ({ theme }) => {
                         <li>
                           <div className="o-hidden">
                             <span className="sub-link back">
-                              <i className="pe-7s-angle-left"></i> Go Back
+                              <i className="pe-7s-angle-left"></i> Volver
                             </span>
                           </div>
                         </li>
@@ -66,7 +66,7 @@ const NavbarFullMenu = ({ theme }) => {
                           <div className="o-hidden">
                             <Link href={`/homepage/home1-dark`}>
                               <a className="sub-link">
-                                <span className="nm">01.</span>Main Home
+                                <span className="nm">01.</span>Página principal
                               </a>
                             </Link>
                           </div>
@@ -75,7 +75,7 @@ const NavbarFullMenu = ({ theme }) => {
                           <div className="o-hidden">
                             <Link href={`/homepage/home2-dark`}>
                               <a className="sub-link">
-                                <span className="nm">02.</span>Creative Agency
+                                <span className="nm">02.</span>Agencia Creativa
                               </a>
                             </Link>
                           </div>
@@ -84,7 +84,7 @@ const NavbarFullMenu = ({ theme }) => {
                           <div className="o-hidden">
                             <Link href={`/homepage/home5-dark`}>
                               <a className="sub-link">
-                                <span className="nm">03.</span>Digital Agency
+                                <span className="nm">03.</span> Agencia Digital
                               </a>
                             </Link>
                           </div>
@@ -93,7 +93,7 @@ const NavbarFullMenu = ({ theme }) => {
                           <div className="o-hidden">
                             <Link href={`/homepage/home4-dark`}>
                               <a className="sub-link">
-                                <span className="nm">04.</span>Business One Page
+                                <span className="nm">04.</span>Página de negocios
                               </a>
                             </Link>
                           </div>
@@ -102,8 +102,7 @@ const NavbarFullMenu = ({ theme }) => {
                           <div className="o-hidden">
                             <Link href={`/homepage/home3-dark`}>
                               <a className="sub-link">
-                                <span className="nm">05.</span>Corporate
-                                Business
+                                <span className="nm">05.</span>Empresa de negocios
                               </a>
                             </Link>
                           </div>
@@ -113,7 +112,7 @@ const NavbarFullMenu = ({ theme }) => {
                           <div className="o-hidden">
                             <Link href={`/homepage/home6-dark`}>
                               <a className="sub-link">
-                                <span className="nm">06.</span>Modern Agency
+                                <span className="nm">06.</span>Agencia Moderna
                               </a>
                             </Link>
                           </div>
@@ -131,7 +130,7 @@ const NavbarFullMenu = ({ theme }) => {
                           <div className="o-hidden">
                             <Link href={`/homepage/home8-dark`}>
                               <a className="sub-link">
-                                <span className="nm">08.</span>Architecture
+                                <span className="nm">08.</span>Arquitectura
                               </a>
                             </Link>
                           </div>
@@ -143,7 +142,7 @@ const NavbarFullMenu = ({ theme }) => {
                     <div className="o-hidden">
                       <Link href={`/about/about-dark`}>
                         <a className="link">
-                          <span className="nm">02.</span>About Us
+                          <span className="nm">02.</span>Sobre nosotros
                         </a>
                       </Link>
                     </div>
@@ -151,7 +150,7 @@ const NavbarFullMenu = ({ theme }) => {
                   <li>
                     <div className="o-hidden">
                       <span className="link dmenu">
-                        <span className="nm">03.</span>Works
+                        <span className="nm">03.</span>Obras
                         <i className="fas fa-angle-right"></i>
                       </span>
                     </div>
@@ -160,7 +159,7 @@ const NavbarFullMenu = ({ theme }) => {
                         <li>
                           <div className="o-hidden">
                             <span className="sub-link back">
-                              <i className="pe-7s-angle-left"></i> Go Back
+                              <i className="pe-7s-angle-left"></i> Volver
                             </span>
                           </div>
                         </li>
@@ -168,7 +167,7 @@ const NavbarFullMenu = ({ theme }) => {
                           <div className="o-hidden">
                             <Link href={`/showcase/showcase-dark`}>
                               <a className="sub-link">
-                                <span className="nm">01.</span>ShowCase Parallax
+                                <span className="nm">01.</span>Mostrar Paralelo
                               </a>
                             </Link>
                           </div>
@@ -177,7 +176,7 @@ const NavbarFullMenu = ({ theme }) => {
                           <div className="o-hidden">
                             <Link href={`/showcase4/showcase4-dark`}>
                               <a className="sub-link">
-                                <span className="nm">02.</span>ShowCase Carousel
+                                <span className="nm">02.</span>Carrusel de presentación
                               </a>
                             </Link>
                           </div>
@@ -186,7 +185,7 @@ const NavbarFullMenu = ({ theme }) => {
                           <div className="o-hidden">
                             <Link href={`/showcase3/showcase3-dark`}>
                               <a className="sub-link">
-                                <span className="nm">03.</span>ShowCase Circle
+                                <span className="nm">03.</span>Círculo de muestra
                               </a>
                             </Link>
                           </div>
@@ -195,7 +194,7 @@ const NavbarFullMenu = ({ theme }) => {
                           <div className="o-hidden">
                             <Link href={`/works/works-dark`}>
                               <a className="sub-link">
-                                <span className="nm">04.</span>Portfolio Masonry
+                                <span className="nm">04.</span>Portfolio de trabajo
                               </a>
                             </Link>
                           </div>
@@ -214,7 +213,7 @@ const NavbarFullMenu = ({ theme }) => {
                           <div className="o-hidden">
                             <Link href={`/works3/works3-dark`}>
                               <a className="sub-link">
-                                <span className="nm">06.</span>Portfolio Gallery
+                                <span className="nm">06.</span>Portfolio de Galería
                               </a>
                             </Link>
                           </div>
@@ -234,7 +233,7 @@ const NavbarFullMenu = ({ theme }) => {
                         <li>
                           <div className="o-hidden">
                             <span className="sub-link back">
-                              <i className="pe-7s-angle-left"></i> Go Back
+                              <i className="pe-7s-angle-left"></i> Volver
                             </span>
                           </div>
                         </li>
@@ -251,7 +250,7 @@ const NavbarFullMenu = ({ theme }) => {
                           <div className="o-hidden">
                             <Link href={`/blog-list/blog-list-dark`}>
                               <a className="sub-link">
-                                <span className="nm">02.</span>Blog List
+                                <span className="nm">02.</span>Lista de blogs
                               </a>
                             </Link>
                           </div>
@@ -269,7 +268,7 @@ const NavbarFullMenu = ({ theme }) => {
                           <div className="o-hidden">
                             <Link href={`/blog-details/blog-details-dark`}>
                               <a className="sub-link">
-                                <span className="nm">04.</span>Blog Details
+                                <span className="nm">04.</span>Detalles del blog
                               </a>
                             </Link>
                           </div>
@@ -281,7 +280,7 @@ const NavbarFullMenu = ({ theme }) => {
                     <div className="o-hidden">
                       <Link href={`/contact/contact-dark`}>
                         <a className="link">
-                          <span className="nm">05.</span>Contact
+                          <span className="nm">05.</span>Contacto
                         </a>
                       </Link>
                     </div>
@@ -292,13 +291,13 @@ const NavbarFullMenu = ({ theme }) => {
             <div className="col-lg-3 col-md-4">
               <div className="cont-info">
                 <div className="item">
-                  <h6>Phone :</h6>
-                  <p>+03 762-2367-723</p>
+                  <h6>Celular :</h6>
+                  <p>+54 2645968696</p>
                 </div>
                 <div className="item">
-                  <h6>Address :</h6>
+                  <h6>Dirección :</h6>
                   <p>
-                    541 Melville Ave, Palo Alto, CA 94301, ask@ohio.colabr.io
+                    Gral. Mariano Acha Sur 356, San Juan
                   </p>
                 </div>
                 <div className="item">
@@ -306,7 +305,7 @@ const NavbarFullMenu = ({ theme }) => {
                   <p>
                     <a href="#0">Vie_website@gmail.com</a>
                   </p>
-                </div>
+                </div> 
               </div>
             </div>
           </div>
