@@ -1,11 +1,11 @@
 /* eslint-disable @next/next/no-img-element */
-import React from "react";
-import Link from "next/link";
-import appData from "../../data/app.json";
+import React from 'react';
+import Link from 'next/link';
+import appData from '../../data/app.json';
 
 const Footer = ({ hideBGCOLOR }) => {
   return (
-    <footer className={`${!hideBGCOLOR ? "sub-bg" : ""}`}>
+    <footer className={`${!hideBGCOLOR ? 'sub-bg' : ''}`}>
       <div className="container">
         <div className="row">
           <div className="col-lg-4">
@@ -18,21 +18,21 @@ const Footer = ({ hideBGCOLOR }) => {
                   <span className="icon pe-7s-map-marker"></span>
                   <div className="cont">
                     <h6>Dirección:</h6>
-                    <p>Gral. Mariano Acha Sur 356, San Juan</p>
+                    <p>Av. Sarmiento 2553, San Juan - Argentina</p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
                     <h6>Envíanos un correo electrónico:</h6>
-                    <p>support@gmail.com</p>
+                    <p>torresmatiasangel@gmail.com</p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-call"></span>
                   <div className="cont">
                     <h6>Llámenos</h6>
-                    <p>+54 2645968696</p>
+                    <p>+54 2644035669</p>
                   </div>
                 </li>
               </ul>
@@ -56,7 +56,8 @@ const Footer = ({ hideBGCOLOR }) => {
                     <Link href="/blog-details/blog-details-dark">
                       <a>
                         <p>
-                        La guía definitiva de puesta en marcha para hacer su diario de WordPress.
+                          La guía definitiva de puesta en marcha para hacer su
+                          diario de WordPress.
                         </p>
                       </a>
                     </Link>
@@ -79,7 +80,8 @@ const Footer = ({ hideBGCOLOR }) => {
                     <Link href="/blog-details/blog-details-dark">
                       <a>
                         <p>
-                        La guía definitiva de puesta en marcha para hacer su diario de WordPress.
+                          La guía definitiva de puesta en marcha para hacer su
+                          diario de WordPress.
                         </p>
                       </a>
                     </Link>
@@ -92,7 +94,10 @@ const Footer = ({ hideBGCOLOR }) => {
                 </li>
                 <li>
                   <div className="subscribe">
-                    <input type="text" placeholder="Escriba su correo electrónico" />
+                    <input
+                      type="text"
+                      placeholder="Escriba su correo electrónico"
+                    />
                     <span className="subs pe-7s-paper-plane"></span>
                   </div>
                 </li>
@@ -119,16 +124,7 @@ const Footer = ({ hideBGCOLOR }) => {
                 </a>
               </div>
               <div className="copy-right">
-                <p>
-                  © 2022, Vie Template. Made with passion by
-                  <Link
-                    href="https://themeforest.net/user/themescamp/portfolio"
-                    
-                  >
-                    <a target="_blank">ThemesCamp</a>
-                  </Link>
-                  .
-                </p>
+                <p>© 2022, Made with passion by Matias Torres.</p>
               </div>
             </div>
           </div>
