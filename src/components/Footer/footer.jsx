@@ -1,11 +1,11 @@
 /* eslint-disable @next/next/no-img-element */
-import React from "react";
-import Link from "next/link";
-import appData from "../../data/app.json";
+import React from 'react';
+import Link from 'next/link';
+import appData from '../../data/app.json';
 
 const Footer = ({ hideBGCOLOR }) => {
   return (
-    <footer className={`${!hideBGCOLOR ? "sub-bg" : ""}`}>
+    <footer className={`${!hideBGCOLOR ? 'sub-bg' : ''}`}>
       <div className="container">
         <div className="row">
           <div className="col-lg-4">
@@ -18,21 +18,21 @@ const Footer = ({ hideBGCOLOR }) => {
                   <span className="icon pe-7s-map-marker"></span>
                   <div className="cont">
                     <h6>Officeal Address</h6>
-                    <p>504 White St . Dawsonville, GA 30534 , New York</p>
+                    <p>Av. Sarmiento 2553 (e) , San Juan - Argentina</p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
                     <h6>Email Us</h6>
-                    <p>support@gmail.com</p>
+                    <p>torresmatiasangel@gmail.com</p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-call"></span>
                   <div className="cont">
                     <h6>Call Us</h6>
-                    <p>+87986451666</p>
+                    <p>+54112644035669</p>
                   </div>
                 </li>
               </ul>
@@ -122,12 +122,9 @@ const Footer = ({ hideBGCOLOR }) => {
               </div>
               <div className="copy-right">
                 <p>
-                  © 2022, Vie Template. Made with passion by
-                  <Link
-                    href="https://themeforest.net/user/themescamp/portfolio"
-                    
-                  >
-                    <a target="_blank">ThemesCamp</a>
+                  © 2022, Made with passion by
+                  <Link href="https://themeforest.net/user/themescamp/portfolio">
+                    <a target="_blank">Angel Matias Torres</a>
                   </Link>
                   .
                 </p>
