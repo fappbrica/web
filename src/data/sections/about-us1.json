@@ -2,7 +2,7 @@
   "id": 1,
   "smallTitle": "Sobre nosotros",
   "title": "Nuestra empresa",
-  "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quidem iusto dolorum reprehenderit accusamus vel explicabo quas commodi veniam.",
+  "content": "Somos una empresa sanjuanina que implementa su experiencia en el desarrollo de aplicaciones y sitios web para pequeñas y grandes empresas. ",
   "image": "/img/feat.jpg",
   "stauts": [
     { "id": 1, "number": "3", "letter": "K", "stautsName": "Clientes felices" },
