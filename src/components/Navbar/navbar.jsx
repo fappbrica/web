@@ -94,7 +94,7 @@ const Navbar = ({ lr, nr, theme }) => {
                 aria-haspopup="true"
                 aria-expanded="false"
               >
-                Obras
+                Nuestros proyectos
               </span>
               <div className="dropdown-menu">
                 <Link href={`/showcase/showcase-dark`}>

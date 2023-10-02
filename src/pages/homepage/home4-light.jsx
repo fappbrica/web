@@ -51,7 +51,7 @@ const Homepage4 = () => {
         <AboutUs2 />
         <Services lines />
         <Portfolio grid={2} filterPosition="left" />
-        <VideoWithTestimonials />
+        {/*<VideoWithTestimonials />*/}
         <Clients2 theme="light" length={4} />
         <Team />
         <Blogs4 />

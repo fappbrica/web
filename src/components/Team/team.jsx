@@ -27,7 +27,7 @@ const Team = () => {
                 Ayudamos a crear estrategias visuales
               </h3>
               <p>
-                Somos Vie. Creamos sitios web galardonados, marcas notables y aplicaciones de vanguardia. Nullam imperdie.
+                Somos Fappbrica, creamos sitios web y aplicaciones de vanguardia.
               </p>
               <div className="skills-box mt-40">
                 {teamsDate.skills.map((skill) => (

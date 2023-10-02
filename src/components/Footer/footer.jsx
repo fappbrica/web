@@ -4,6 +4,9 @@ import Link from 'next/link';
 import appData from '../../data/app.json';
 
 const Footer = ({ hideBGCOLOR }) => {
+
+  const dateUpdate = new Date().getFullYear();
+  
   return (
     <footer className={`${!hideBGCOLOR ? 'sub-bg' : ''}`}>
       <div className="container">
@@ -40,74 +43,8 @@ const Footer = ({ hideBGCOLOR }) => {
           </div>
           <div className="col-lg-4">
             <div className="item md-mb50">
-              <div className="title">
-                <h5>Noticias recientes</h5>
-              </div>
-              <ul>
-                <li>
-                  <div className="img">
-                    <Link href="/blog-details/blog-details-dark">
-                      <a>
-                        <img src="/img/blog/1.jpg" alt="" />
-                      </a>
-                    </Link>
-                  </div>
-                  <div className="sm-post">
-                    <Link href="/blog-details/blog-details-dark">
-                      <a>
-                        <p>
-                          La guía definitiva de puesta en marcha para hacer su
-                          diario de WordPress.
-                        </p>
-                      </a>
-                    </Link>
-                    <Link href="/blog/blog-dark">
-                      <a>
-                        <span className="date">14 sep 2022</span>
-                      </a>
-                    </Link>
-                  </div>
-                </li>
-                <li>
-                  <div className="img">
-                    <Link href="/blog-details/blog-details-dark">
-                      <a>
-                        <img src="/img/blog/2.jpg" alt="" />
-                      </a>
-                    </Link>
-                  </div>
-                  <div className="sm-post">
-                    <Link href="/blog-details/blog-details-dark">
-                      <a>
-                        <p>
-                          La guía definitiva de puesta en marcha para hacer su
-                          diario de WordPress.
-                        </p>
-                      </a>
-                    </Link>
-                    <Link href="/blog/blog-dark">
-                      <a>
-                        <span className="date">14 sep 2022</span>
-                      </a>
-                    </Link>
-                  </div>
-                </li>
-                <li>
-                  <div className="subscribe">
-                    <input
-                      type="text"
-                      placeholder="Escriba su correo electrónico"
-                    />
-                    <span className="subs pe-7s-paper-plane"></span>
-                  </div>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div className="col-lg-4">
-            <div className="item">
-              <div className="logo">
-                <img src={appData.lightLogo} alt="" />
+            <div className="title">
+                <h5>Nuestras redes:</h5>
               </div>
               <div className="social">
                 <a href="#0">
@@ -123,8 +60,81 @@ const Footer = ({ hideBGCOLOR }) => {
                   <i className="fab fa-youtube"></i>
                 </a>
               </div>
+              <br />
+              <div className="title">
+                <h5>Subscribite</h5>
+              </div>
+              <ul>
+              <li>
+                  <div className="subscribe">
+                    <input
+                      type="text"
+                      placeholder="Escriba su correo electrónico"
+                    />
+                    <span className="subs pe-7s-paper-plane"></span>
+                  </div>
+              </li>
+              {/*<li>
+                <div className="img">
+                    <Link href="/blog-details/blog-details-dark">
+                      <a>
+                        <img src="/img/blog/1.jpg" alt="" />
+                      </a>
+                    </Link>
+                  </div>
+                */}
+                {/* <div className="sm-post">
+                    <Link href="/blog-details/blog-details-dark">
+                      <a>
+                        <p>
+                          La guía definitiva de puesta en marcha para hacer su
+                          diario de WordPress.
+                        </p>
+                      </a>
+                    </Link>
+                    <Link href="/blog/blog-dark">
+                      <a>
+                        <span className="date">14 sep 2022</span>
+                      </a>
+                    </Link>
+                    </div>
+                </li>*/}
+                  {/*<li>
+             
+                  <div className="img">
+                    <Link href="/blog-details/blog-details-dark">
+                      <a>
+                        <img src="/img/blog/2.jpg" alt="" />
+                      </a>
+                    </Link>
+                  </div>
+                  */} 
+               {/*<div className="sm-post">
+                    <Link href="/blog-details/blog-details-dark">
+                      <a>
+                        <p>
+                          La guía definitiva de puesta en marcha para hacer su
+                          diario de WordPress.
+                        </p>
+                      </a>
+                    </Link>
+                    <Link href="/blog/blog-dark">
+                      <a>
+                        <span className="date">14 sep 2022</span>
+                      </a>
+                    </Link>
+                  </div>
+                  </li> */}
+              </ul>
+            </div>
+          </div>
+          <div className="col-lg-4">
+            <div className="item">
+              <div className="logo">
+                <img src={appData.lightLogo} alt="" />
+              </div>
               <div className="copy-right">
-                <p>© 2022, Made with passion by Matias Torres.</p>
+                <p>© {dateUpdate}, todos los derechos reservados a Fappbrica.</p>
               </div>
             </div>
           </div>

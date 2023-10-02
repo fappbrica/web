@@ -15,7 +15,7 @@ const NavbarArch = ({ navbarRef, theme }) => {
             theme === "themeL" ? (
               <img src={appData.darkLogo} alt="logo" />
             ) : (
-              <img src={appData.lightLogo} alt="logo" />
+              <img src={appData.lightLogo} alt="logo"  style={"with: 20px"}/>
             )
           ) : (
             <img src={appData.lightLogo} alt="logo" />
@@ -120,7 +120,7 @@ const NavbarArch = ({ navbarRef, theme }) => {
                 offset={50}
                 duration={500}
               >
-                Obras
+                Nuestros proyectos
               </Link>
             </li>
             <li className="nav-item">

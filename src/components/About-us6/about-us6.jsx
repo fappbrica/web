@@ -31,7 +31,7 @@ const AboutUs6 = () => {
                 <h6 className="sub-title main-color ls10 text-u">Sobre nosotros</h6>
                 <h3>Las mejores arquitecturas de diseñadores para ti.</h3>
                 <p>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio impedit molestiae culpa natus fugiat voluptas itaque repellat, atque non iure neque ex facere odit deserunt nobis inventore debitis? Corrupti, vitae!
+                Somos una empresa sanjuanina que implementa su experiencia en el desarrollo de aplicaciones y sitios web para pequeñas y grandes empresas. 
                 </p>
 
                 <Link

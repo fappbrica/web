@@ -17,7 +17,7 @@ const CallToAction = ({img}) => {
                     Contanos 
                   </h6>
                   <h2 className="wow words chars splitting" data-splitting>
-                    sobre tu <br /> <b className="back-color">próximo projecto</b>
+                    sobre tu <br /> <b className="back-color">próximo proyecto</b>
                     .
                   </h2>
                 </Split>

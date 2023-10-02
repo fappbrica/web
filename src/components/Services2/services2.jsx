@@ -12,21 +12,12 @@ const Services2 = () => {
                 Mejores características
               </h6>
               <h3 className="wow color-font">
-              Somos una nueva agencia de desarrollo de productos digitales
+              Te detallamos que servicios brindamos 
               </h3>
             </div>
           </div>
         </div>
         <div className="row">
-          <div className="col-lg-4 wow fadeInUp" data-wow-delay=".3s">
-            <div className="step-item xtop">
-              <span className="icon pe-7s-gleam"></span>
-              <h6>Digital Marketing</h6>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, consequatur asperiores consectetur exercitationem.
-              </p>
-            </div>
-          </div>
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".6s">
             <div className="step-item xcolor">
               <span className="icon pe-7s-phone"></span>

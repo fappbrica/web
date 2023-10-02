@@ -14,21 +14,20 @@ const MinimalArea = () => {
     <section className="min-area sub-bg">
       <div className="container">
         <div className="row">
-          <div className="col-lg-6">
+          <div className="col-lg-5">
             <div className="img">
               <img
-                className="thumparallax-down"
-                src="/img/min-area.jpg"
+                className="thumparallax-down logotipo"
+                src="/img/logo2.png"
                 alt=""
               />
             </div>
           </div>
-          <div className="col-lg-6 valign">
+          <div className="col-lg-7 valign">
             <div className="content pt-0">
               <h4 className="wow color-font">Sobre nosostros.</h4>
               <p className="wow txt" data-splitting>
-                Nuestra agencia de publicidad creativa se encuentra entre las mejores de la Argentina. 
-                Cultivamos ideas inteligentes para empresas emergentes y jugadores experimentados.
+              Somos una empresa sanjuanina que implementa su experiencia en el desarrollo de aplicaciones y sitios web para pequeñas y grandes empresas. 
               </p>
               <ul className="feat">
                 <li className="wow fadeInUp" data-wow-delay=".2s">
@@ -36,7 +35,7 @@ const MinimalArea = () => {
                     <span>1</span>Nuestra misión
                   </h6>
                   <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam mollitia illo accusamus doloribus voluptates!
+                  Centrarnos en la calidad y excelencia en la atención a las demandas.
                   </p>
                 </li>
                 <li className="wow fadeInUp" data-wow-delay=".4s">
@@ -44,18 +43,18 @@ const MinimalArea = () => {
                     <span>2</span>Nuestras metas
                   </h6>
                   <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam mollitia illo accusamus doloribus voluptates!
+                  Dedicamos nuestros esfuerzos diarios a mejorar constantemente en cada detalle que se requiera.
                   </p>
                 </li>
                 <li className="wow fadeInUp" data-wow-delay=".6s">
                   <h6>
                     <span>3</span> Por qué elegirnos?
                   </h6>
-                  <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam mollitia illo accusamus doloribus voluptates!
+                  <p> Siempre buscamos las mejores alternativas para resolver de manera responsable e innovadora los problemas de nuestros clientes.
                   </p>
                 </li>
               </ul>
+              <br />
             </div>
           </div>
         </div>
