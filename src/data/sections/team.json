@@ -2,26 +2,26 @@
   "teams": [
     {
       "id": 1,
-      "image": "/img/team/1.jpg",
-      "title": "Stephanie Lawrence",
+      "image": "/img/team/12.jpg",
+      "title": "Matias Angel Torres",
       "sub": "CEO, Colabrio Media"
     },
     {
       "id": 2,
-      "image": "/img/team/2.jpg",
-      "title": "Alex Regelman",
-      "sub": "CEO, Colabrio Media"
-    },
-    {
-      "id": 3,
       "image": "/img/team/3.jpg",
       "title": "Stacey Stamper",
       "sub": "CEO, Colabrio Media"
     },
     {
+      "id": 3,
+      "image": "/img/team/13.jpg",
+      "title": "Axel Fabian Castro",
+      "sub": "JR, Front End"
+    },
+    {
       "id": 4,
-      "image": "/img/team/4.jpg",
-      "title": "Stephanie Lawrence",
+      "image": "/img/team/3.jpg",
+      "title": "Stacey Stamper",
       "sub": "CEO, Colabrio Media"
     }
   ],
