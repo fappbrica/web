@@ -20,14 +20,14 @@ const Footer = ({ hideBGCOLOR }) => {
                 <li>
                   <span className="icon pe-7s-map-marker"></span>
                   <div className="cont">
-                    <h6>Dirección:</h6>
-                    <p>Av. Sarmiento 2553, San Juan - Argentina</p>
+                    <h6>Officeal Address</h6>
+                    <p>Av. Sarmiento 2553 (e) , San Juan - Argentina</p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
-                    <h6>Envíanos un correo electrónico:</h6>
+                    <h6>Email Us</h6>
                     <p>torresmatiasangel@gmail.com</p>
                   </div>
                 </li>
@@ -134,7 +134,7 @@ const Footer = ({ hideBGCOLOR }) => {
                 <img src={appData.lightLogo} alt="" />
               </div>
               <div className="copy-right">
-                <p>© {dateUpdate}, todos los derechos reservados a Fappbrica.</p>
+                <p>© {dateUpdate}, todos los derechos reservados a Fappbrica.com</p>
               </div>
             </div>
           </div>
