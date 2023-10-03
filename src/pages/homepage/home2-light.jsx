@@ -35,11 +35,11 @@ const Homepage2 = () => {
       <Navbar nr={navbarRef} lr={logoRef} theme="themeL" />
       <Intro2 />
       <Services style="4item" />
-      <Video2 />
+      {/*<Video2 />*/}
       <Portfolio grid={3} filterPosition="center" />
-      <FullTestimonials noPadding />
+    {/*<FullTestimonials noPadding />*/}
       <Team2 />
-      <Blogs2 />
+      {/*<Blogs2 />*/}
       <CallToAction />
       <Footer />
     </LightTheme>

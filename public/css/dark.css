@@ -1904,7 +1904,7 @@ span:hover {
 }
 
 .navbar .logo {
-  width: 50px;
+  width: 100px;
 }
 
 .nav-scroll {
@@ -8106,7 +8106,7 @@ footer .item .logo {
 }
 
 footer .item .logo img {
-  width: 50px;
+  width: 100px;
 }
 
 footer .item .social a {

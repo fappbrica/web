@@ -56,7 +56,7 @@ const Homepage1 = () => {
         <Services />
         <Works />
         <Numbers />
-        <VideoWithTestimonials />
+        {/*<VideoWithTestimonials />*/}
         <SkillsCircle theme="light" />
         <Clients theme="light" />
         <Blogs1 />

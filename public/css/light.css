@@ -1926,7 +1926,9 @@ body {
 }
 
 .navbar .logo {
-  width: 50px;
+  width: 90px;
+  background-color: #272727;
+  border-radius: 12px 12px 12px 12px;
 }
 
 .nav-scroll {
@@ -4857,6 +4859,10 @@ body {
 .min-area .content ul.feat li h6 {
   font-weight: 500;
   margin-bottom: 5px;
+}
+
+.logotipo { 
+    background-color: #272727;
 }
 
 .min-area .content ul.feat li h6 span {
@@ -8090,7 +8096,7 @@ footer .item .logo {
 }
 
 footer .item .logo img {
-  width: 50px;
+  width: 130px;
 }
 
 footer .item .social a {

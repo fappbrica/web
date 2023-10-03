@@ -16,7 +16,7 @@ const Services = ({ style, lines }) => {
               Mejores características
               </h6>
               <h3 className="wow color-font">
-              Somos una nueva agencia de desarrollo de productos digitales
+              Te detallamos que servicios brindamos 
               </h3>
             </div>
           </div>

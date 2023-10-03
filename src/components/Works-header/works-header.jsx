@@ -22,7 +22,7 @@ const WorksHeader = ({ sliderRef }) => {
               </div>
 
               <div className="bactxt custom-font valign">
-                <span className="full-width">Obras</span>
+                <span className="full-width">Nuestros proyectos</span>
               </div>
             </div>
           </div>
