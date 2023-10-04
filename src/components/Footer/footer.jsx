@@ -28,13 +28,13 @@ const Footer = ({ hideBGCOLOR }) => {
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
                     <h6>Envíanos un correo electrónico:</h6>
-                    <p>torresmatiasangel@gmail.com</p>
+                    <p>fappbrica@gmail.com</p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-call"></span>
                   <div className="cont">
-                    <h6>Llámenos</h6>
+                    <h6>Llámenos:</h6>
                     <p>+54 2644035669</p>
                   </div>
                 </li>

@@ -25,7 +25,7 @@ const MinimalArea = () => {
           </div>
           <div className="col-lg-7 valign">
             <div className="content pt-0">
-              <h4 className="wow color-font">Sobre nosostros.</h4>
+              <h4 className="wow color-font">Sobre nosotros.</h4>
               <p className="wow txt" data-splitting>
               Somos una empresa sanjuanina que implementa su experiencia en el desarrollo de aplicaciones y sitios web para pequeñas y grandes empresas. 
               </p>
