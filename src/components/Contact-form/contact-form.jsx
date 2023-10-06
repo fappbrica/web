@@ -1,6 +1,7 @@
 import React from "react";
 import ContactFromDate from "../../data/sections/form-info.json";
 import { Formik, Form, Field } from "formik";
+import axios from 'axios';
 
 const ContactForm = () => {
   const messageRef = React.useRef(null);
@@ -12,38 +13,35 @@ const ContactForm = () => {
       error = "Invalid email address";
     }
     return error;
-  }
+  }  
+  
   const sendMessage = (ms) => new Promise((r) => setTimeout(r, ms));
+
+  const initialValues = {
+    form_name: '',
+    form_email: '',
+    form_message: '',
+  };
+  
+  const onSubmit = async (values, { resetForm }) => {
+    try {
+      const response = await axios.post('https://jsonplaceholder.typicode.com/users', values);
+      console.log('Respuesta del servidor:', response.data);
+      resetForm();
+    } catch (error) {
+      console.error('Error al enviar el formulario:', error);
+    }
+  };
+
+  
   return (
     <section className="contact section-padding">
       <div className="container">
         <div className="row">
           <div className="col-lg-6">
             <div className="form md-mb50">
-              <h4 className="fw-700 color-font mb-50">Ponerse en contacto.</h4>
-              <Formik
-                initialValues={{
-                  name: "",
-                  email: "",
-                  message: "",
-                }}
-                onSubmit={async (values) => {
-                  await sendMessage(500);
-                  alert(JSON.stringify(values, null, 2));
-                  // show message
-
-                  messageRef.current.innerText =
-                    "Your Message has been successfully sent. I will contact you soon.";
-                  // Reset the values
-                  values.name = "";
-                  values.email = "";
-                  values.message = "";
-                  // clear message
-                  setTimeout(() => {
-                    messageRef.current.innerText = ''
-                  }, 2000)
-                }}
-              >
+              <h4 className="fw-700 color-font mb-50">Ponerse en contacto:</h4>
+              <Formik initialValues={initialValues} onSubmit={onSubmit}>
                 {({ errors, touched }) => (
                   <Form id="contact-form">
                     <div className="messages" ref={messageRef}></div>
@@ -81,7 +79,7 @@ const ContactForm = () => {
                       />
                     </div>
 
-                    <button type="submit" className="butn bord">
+                    <button type="submit" className="butn bord"  onSubmit={onSubmit}>
                       <span>Enviar mensaje</span>
                     </button>
                   </Form>
@@ -102,7 +100,7 @@ const ContactForm = () => {
                 <h5>{ContactFromDate.phone}</h5>
               </div>
               <h3 className="wow" data-splitting>
-                Visítanos.
+                Visítanos:
               </h3>
               <div className="item">
                 <h6>

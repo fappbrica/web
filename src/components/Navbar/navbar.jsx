@@ -117,31 +117,6 @@ const Navbar = ({ lr, nr, theme }) => {
                 </Link>
               </div>
             </li>
-            <li className="nav-item dropdown" onClick={handleDropdown}>
-              <span
-                className="nav-link dropdown-toggle"
-                data-toggle="dropdown"
-                role="button"
-                aria-haspopup="true"
-                aria-expanded="false"
-              >
-                Blog
-              </span>
-              <div className="dropdown-menu">
-                <Link href={`/blog/blog-dark`}>
-                  <a className="dropdown-item">Blog Estándar</a>
-                </Link>
-                <Link href={`/blog-list/blog-list-dark`}>
-                  <a className="dropdown-item">Blog Lista</a>
-                </Link>
-                <Link href={`/blog-grid/blog-grid-dark`}>
-                  <a className="dropdown-item">Blog Grid</a>
-                </Link>
-                <Link href={`/blog-details/blog-details-dark`}>
-                  <a className="dropdown-item">Blog Detalles</a>
-                </Link>
-              </div>
-            </li>
             <li className="nav-item">
               <Link href={`/contact/contact-dark`}>
                 <a className="nav-link">Contacto</a>

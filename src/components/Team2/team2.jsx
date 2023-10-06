@@ -54,7 +54,7 @@ const Team2 = () => {
                   </svg>
                 </div>
                 <div className="info">
-                  <h6>Matias Angeles Torres</h6>
+                  <h6>Matias Angel Torres</h6>
                   <span>Fundador</span>
                 </div>
               </div>
