@@ -1,15 +1,14 @@
 {
   "id": 1,
-  "image1": "/img/01.jpg",
-  "image2": "/img/02.jpg",
   "exp": {
-    "nmb": 28,
+    "nmb": 10,
     "name": "Años de experiencia"
   },
-  "title": { "first": "Habilidades ilimitadas", "second": "para Súper Proyectos." },
+  "image2": "/img/logo1.png",
+  "title": { "first": "FAPPBRICA"},
   "content": {
-    "first": "La marca ya no se trata simplemente del atractivo visual (o el ejemplo de la cereza en el pastel de manzana, como se mencionó en mi artículo anterior).",
-    "second": "Desarrollamos soluciones creativas para marcas pequeñas y grandes por igual, construimos identidades de productos auténticas y mucho más."
+    "first": "Es una empresa sanjuanina que implementa su experiencia en el desarrollo de aplicaciones y sitios web para pequeñas y grandes empresas."
   },
   "smallTitle": "Sobre nosostros"
 }
+ 
