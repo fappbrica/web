@@ -39,10 +39,10 @@ const Homepage5 = () => {
       <Works3 />
       <Services3 />
       <MinimalArea2 />
-      <FullTestimonials classText="pb-0" />
+      {/*<FullTestimonials classText="pb-0" />*/}
       <Team />
-      <Blogs4 />
-      <CallToAction />
+      {/*<Blogs4 />
+      <CallToAction />*/}
       <Footer />
     </LightTheme>
   );

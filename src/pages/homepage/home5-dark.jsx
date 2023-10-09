@@ -33,16 +33,16 @@ const Homepage5 = () => {
   }, [navbarRef]);
   return (
     <DarkTheme>
-      <Navbar nr={navbarRef} lr={logoRef} />
-      <Intro4 />
+      <Navbar nr={navbarRef} lr={logoRef} theme="themeL" />
+      <Intro4 blackStar />
       <AboutUs3 />
-      <Works3 />
+      {/*<Works3 />*/}
       <Services3 />
       <MinimalArea2 />
-      <FullTestimonials classText="pb-0" />
+      {/*<FullTestimonials classText="pb-0" />*/}
       <Team />
-      <Blogs4 />
-      <CallToAction />
+      {/*<Blogs4 />
+      <CallToAction />*/}
       <Footer />
     </DarkTheme>
   );
