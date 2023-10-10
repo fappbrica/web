@@ -44,8 +44,8 @@ const WorksDark = () => {
         </div>
       </div>
       <Navbar nr={navbarRef} lr={logoRef} />
-        <WorksHeader sliderRef={fixedHeader} />
       <div ref={MainContent} className="main-content">
+      <WorksHeader sliderRef={fixedHeader} />
         <WorksStyle1 />
         <Footer />
       </div>

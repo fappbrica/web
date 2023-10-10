@@ -1,10 +1,10 @@
-import React from "react";
-import Link from "next/link";
-import cardMouseEffect from "../../common/cardMouseEffect";
+import React from 'react';
+import Link from 'next/link';
+import cardMouseEffect from '../../common/cardMouseEffect';
 
 const Services3 = () => {
   React.useEffect(() => {
-    cardMouseEffect(document.querySelectorAll(".feat .items"));
+    cardMouseEffect(document.querySelectorAll('.feat .items'));
   }, []);
   return (
     <section className="feat sub-bg section-padding">
@@ -22,14 +22,15 @@ const Services3 = () => {
           </div>
         </div>
         <div className="row">
-          <div className="col-lg-3 col-md-6 items md-mb30">
+          <div className="col-lg-4 col-md-6 items md-mb30">
             <div className="item wow fadeIn" data-wow-delay=".3s">
               <span className="icon">
                 <i className="ion-ios-monitor"></i>
               </span>
-              <h5>Diseño de interfaz</h5>
+              <h5>Diseño Web</h5>
               <p>
-              Implementación y despliegue de nueva infraestructura de red, incluida la consolidación.
+                Diseñamos tu página web a medida, ajustándonos a tus necesidades
+                y garantizando su adaptabilidad a cualquier dispositivo.
               </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke">
@@ -38,14 +39,16 @@ const Services3 = () => {
               </Link>
             </div>
           </div>
-          <div className="col-lg-3 col-md-6 items active md-mb30">
+          <div className="col-lg-4 col-md-6 items active md-mb30">
             <div className="item wow fadeIn" data-wow-delay=".3s">
               <span className="icon">
                 <i className="ion-ios-bolt-outline"></i>
               </span>
-              <h5>Creativo Siempre</h5>
+              <h5>Mantenimiento</h5>
               <p>
-              Implementación y despliegue de nueva infraestructura de red, incluida la consolidación.
+                Aplicaremos acciones preventivas y correctivas para lograr que
+                tu página web se conserve atractiva y funcional, corrigiendo
+                errores y mejorando la usabilidad de la misma.
               </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke">
@@ -54,14 +57,14 @@ const Services3 = () => {
               </Link>
             </div>
           </div>
-          <div className="col-lg-3 col-md-6 items sm-mb30">
+          <div className="col-lg-4 col-md-6 items sm-mb30">
             <div className="item wow fadeIn" data-wow-delay=".3s">
               <span className="icon">
                 <i className="ion-cube"></i>
               </span>
-              <h5>Edición en tiempo real</h5>
+              <h5>Trabajo duro</h5>
               <p>
-              Implementación y despliegue de nueva infraestructura de red, incluida la consolidación.
+              Amamos trabajar porque nos gustan los desafíos y adoramos lo que hacemos.
               </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke">
@@ -70,7 +73,7 @@ const Services3 = () => {
               </Link>
             </div>
           </div>
-          <div className="col-lg-3 col-md-6 items">
+          {/*<div className="col-lg-3 col-md-6 items">
             <div className="item wow fadeIn" data-wow-delay=".3s">
               <span className="icon">
                 <i className="ion-ios-color-wand"></i>
@@ -85,7 +88,7 @@ const Services3 = () => {
                 </a>
               </Link>
             </div>
-          </div>
+          </div>*/}
         </div>
       </div>
     </section>

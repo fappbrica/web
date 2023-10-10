@@ -11,7 +11,7 @@ const MinimalArea2 = () => {
     }, 1000);
   }, []);
   return (
-    <section className="min-area sub-bg" >
+    <section className="min-area" >
       <div className="container">
         <div className="row">
           <div className="col-lg-6">
@@ -39,7 +39,7 @@ const MinimalArea2 = () => {
                   Trabajamos con algunas de las empresas más exitosas.
                 </li>
               </ul>
-              <Link href={`/works/works-dark`}>
+              <Link href={`/about/about-dark`}>
                 <a
                   className="butn bord curve mt-40 wow fadeInUp"
                   data-wow-delay=".8s"

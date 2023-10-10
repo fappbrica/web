@@ -27,7 +27,7 @@ const Team = () => {
                 Ayudamos a crear estrategias visuales
               </h3>
               <p>
-                Somos Fappbrica, creamos sitios web y aplicaciones de vanguardia.
+                Somos Fappbrica, creamos sitios web y aplicaciones.
               </p>
               <div className="skills-box mt-40">
                 {teamsDate.skills.map((skill) => (

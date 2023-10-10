@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>Fappbrica.com | Fabrica de aplicaciones web y mobile.</title>
-        <link rel="icon" href="../" />
+        <link rel="icon" href="/img/icon.ico" />
       </Head>
       <Cursor />
       <LoadingScreen />

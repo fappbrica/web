@@ -24,7 +24,7 @@ const AboutUs5 = () => {
               Ayudamos a crear estrategias visuales.
               </h5>
               <p>
-              Somos Vie. Creamos sitios web galardonados, marcas notables y aplicaciones de vanguardia.
+              Somos Vie. Creamos sitios web galardonados, marcas notables y aplicaciones.
               </p>
               <div className="skills-box mt-40">
                 <div className="skill-item">
