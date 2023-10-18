@@ -12,10 +12,10 @@ const WorksHeader = ({ sliderRef }) => {
     >
       <div className="container">
         <div className="row justify-content-center">
-          <div className="col-lg-7 col-md-9 static">
+          <div className="col-lg-7 col-md-4 static">
             <div className="capt mt-50">
               <div className="parlx text-center">
-                <h1 className="color-font">Te mostrasmos</h1>
+                <h1 className="color-font">Te mostramos</h1>
                 <p>
                 Las empresas y emprendimientos que han confiado en nosotros.
                 </p>
