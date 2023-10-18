@@ -11,7 +11,7 @@ const Intro4 = ({ sliderRef, blackStar }) => {
           <div className="col-lg-10">
             <div className="cont text-center">
               <h1>
-                <span className="color-font">DESARROLLO</span> DE SOFTWARE<span className="color-font">A MEDIDA.</span>
+                <span className="color-font">DESARROLLO</span> DE SOFTWARE<span className="color-font"> A MEDIDA.</span>
               </h1>
             </div>
           </div>
